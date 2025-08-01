@@ -34,9 +34,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2387451.3285714285,
-                "average_daily_1y": 2326995.7509433962,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 521943.29841269844,
+                "average_daily_1y": 486325.0634560907,
+                "week_more_than_X_ratio": 0.9499
             },
             "fulfilled": false
         },
@@ -79,8 +79,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4631.428571428572,
-                "average_daily_1y": 7121.132075471698,
+                "average_daily_3m": 1045.6000000000001,
+                "average_daily_1y": 1485.328611898017,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -124,9 +124,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 84124.28571428571,
-                "average_daily_1y": 72483.39622641509,
-                "week_more_than_X_ratio": 0.5508021390374331
+                "average_daily_3m": 18262.507936507936,
+                "average_daily_1y": 15853.592634560904,
+                "week_more_than_X_ratio": 0.1361
             },
             "fulfilled": false
         },
@@ -169,8 +169,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3435.657142857143,
-                "average_daily_1y": 2646.9660377358487,
+                "average_daily_3m": 694.453968253968,
+                "average_daily_1y": 574.1654390934845,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -214,9 +214,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 290840.0,
-                "average_daily_1y": 289565.6603773585,
-                "week_more_than_X_ratio": 0.8235294117647058
+                "average_daily_3m": 63936.479365079365,
+                "average_daily_1y": 62199.03002832862,
+                "week_more_than_X_ratio": 0.2122
             },
             "fulfilled": false
         },
@@ -259,8 +259,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 6744.285714285715,
-                "average_daily_1y": 7588.984905660376,
+                "average_daily_3m": 1467.415873015873,
+                "average_daily_1y": 1331.9495750708215,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -304,9 +304,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 10310517.771428572,
-                "average_daily_1y": 8444719.38490566,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2269631.8444444444,
+                "average_daily_1y": 1675388.516147309,
+                "week_more_than_X_ratio": 0.997
             },
             "fulfilled": false
         },
@@ -349,9 +349,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 54324.28571428572,
-                "average_daily_1y": 105039.62264150943,
-                "week_more_than_X_ratio": 0.13368983957219252
+                "average_daily_3m": 11339.292063492065,
+                "average_daily_1y": 21937.590934844193,
+                "week_more_than_X_ratio": 0.004
             },
             "fulfilled": false
         },
@@ -394,8 +394,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 11864.142857142857,
-                "average_daily_1y": 11501.520754716983,
+                "average_daily_3m": 2639.704761904762,
+                "average_daily_1y": 2379.933711048159,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -439,9 +439,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 50195.71428571428,
-                "average_daily_1y": 27769.056603773584,
-                "week_more_than_X_ratio": 0.17647058823529413
+                "average_daily_3m": 11044.52380952381,
+                "average_daily_1y": 4850.990368271954,
+                "week_more_than_X_ratio": 0.004
             },
             "fulfilled": false
         },
@@ -484,8 +484,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 16681.428571428572,
-                "average_daily_1y": 7587.169811320755,
+                "average_daily_3m": 3709.9047619047615,
+                "average_daily_1y": 1364.5093484419262,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -529,8 +529,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4593.271428571429,
-                "average_daily_1y": 7472.7094339622645,
+                "average_daily_3m": 1013.1079365079364,
+                "average_daily_1y": 1619.763739376771,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -574,9 +574,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 151143.52857142856,
-                "average_daily_1y": 158479.45660377358,
-                "week_more_than_X_ratio": 0.7219251336898396
+                "average_daily_3m": 33222.955555555556,
+                "average_daily_1y": 32463.920113314445,
+                "week_more_than_X_ratio": 0.0761
             },
             "fulfilled": false
         },
@@ -619,9 +619,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 828661.4285714285,
-                "average_daily_1y": 521925.5245283019,
-                "week_more_than_X_ratio": 0.6684491978609626
+                "average_daily_3m": 183077.96825396823,
+                "average_daily_1y": 100679.59320113315,
+                "week_more_than_X_ratio": 0.1291
             },
             "fulfilled": false
         },
@@ -664,9 +664,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1167994.4000000001,
-                "average_daily_1y": 912726.0339622641,
-                "week_more_than_X_ratio": 0.9786096256684492
+                "average_daily_3m": 256956.4476190476,
+                "average_daily_1y": 182890.5745042493,
+                "week_more_than_X_ratio": 0.4825
             },
             "fulfilled": false
         },
@@ -709,9 +709,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3009800.0,
-                "average_daily_1y": 1753445.7018867922,
-                "week_more_than_X_ratio": 0.9786096256684492
+                "average_daily_3m": 665016.5333333332,
+                "average_daily_1y": 335055.04759206803,
+                "week_more_than_X_ratio": 0.6667
             },
             "fulfilled": false
         },
@@ -754,9 +754,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 980230.0,
-                "average_daily_1y": 532164.9056603773,
-                "week_more_than_X_ratio": 0.8288770053475936
+                "average_daily_3m": 213291.3650793651,
+                "average_daily_1y": 95363.22152974503,
+                "week_more_than_X_ratio": 0.4124
             },
             "fulfilled": false
         },
@@ -799,9 +799,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 395917.14285714284,
-                "average_daily_1y": 759661.8867924528,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 87345.18095238096,
+                "average_daily_1y": 175109.1818696884,
+                "week_more_than_X_ratio": 0.5365
             },
             "fulfilled": false
         },
@@ -844,8 +844,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3732.8571428571427,
-                "average_daily_1y": 3131.698113207547,
+                "average_daily_3m": 807.2126984126984,
+                "average_daily_1y": 565.2215297450424,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -889,9 +889,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1166721.4285714286,
-                "average_daily_1y": 818484.9056603773,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 257700.47936507934,
+                "average_daily_1y": 162865.43059490086,
+                "week_more_than_X_ratio": 0.6997
             },
             "fulfilled": false
         },
@@ -934,9 +934,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 98007.14285714286,
-                "average_daily_1y": 58362.64150943396,
-                "week_more_than_X_ratio": 0.0962566844919786
+                "average_daily_3m": 21480.52063492063,
+                "average_daily_1y": 10296.835127478753,
+                "week_more_than_X_ratio": 0.006
             },
             "fulfilled": false
         },
@@ -979,8 +979,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 25879.27142857143,
-                "average_daily_1y": 16746.0,
+                "average_daily_3m": 5341.942857142856,
+                "average_daily_1y": 2995.1524079320116,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -1024,9 +1024,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3823170.0,
-                "average_daily_1y": 3369001.5094339624,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 829853.4,
+                "average_daily_1y": 692864.249858357,
+                "week_more_than_X_ratio": 0.953
             },
             "fulfilled": false
         },
@@ -1069,8 +1069,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1490.0,
-                "average_daily_1y": 901.4150943396227,
+                "average_daily_3m": 333.34920634920627,
+                "average_daily_1y": 161.54220963172804,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -1114,9 +1114,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 132482.85714285713,
-                "average_daily_1y": 124327.92452830188,
-                "week_more_than_X_ratio": 0.20320855614973263
+                "average_daily_3m": 25300.730158730166,
+                "average_daily_1y": 24281.39206798867,
+                "week_more_than_X_ratio": 0.014
             },
             "fulfilled": false
         },
@@ -1135,7 +1135,7 @@
         },
         "pe": {
             "value": {
-                "2024": 7.9,
+                "2024": 8.1,
                 "2023": 119.7,
                 "2022": 13.6
             },
@@ -1159,9 +1159,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 9611627.142857144,
-                "average_daily_1y": 8685134.298113208,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2106281.1333333333,
+                "average_daily_1y": 1653966.8985835696,
+                "week_more_than_X_ratio": 0.994
             },
             "fulfilled": false
         },
@@ -1204,9 +1204,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 547607.1428571428,
-                "average_daily_1y": 472897.6075471698,
-                "week_more_than_X_ratio": 0.6684491978609626
+                "average_daily_3m": 119717.00634920636,
+                "average_daily_1y": 92082.9031161473,
+                "week_more_than_X_ratio": 0.0771
             },
             "fulfilled": false
         },
@@ -1249,9 +1249,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1017933.9428571428,
-                "average_daily_1y": 726361.4188679246,
-                "week_more_than_X_ratio": 0.7379679144385026
+                "average_daily_3m": 224246.60317460322,
+                "average_daily_1y": 148059.2220963173,
+                "week_more_than_X_ratio": 0.1301
             },
             "fulfilled": false
         },
@@ -1294,8 +1294,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1170.2,
-                "average_daily_1y": 1268.433962264151,
+                "average_daily_3m": 254.5746031746032,
+                "average_daily_1y": 295.04985835694055,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -1339,9 +1339,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 53838.57142857143,
-                "average_daily_1y": 48094.237735849056,
-                "week_more_than_X_ratio": 0.0427807486631016
+                "average_daily_3m": 11883.70476190476,
+                "average_daily_1y": 9746.339376770538,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -1384,9 +1384,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4817607.142857143,
-                "average_daily_1y": 3162022.920754717,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 1053283.6761904762,
+                "average_daily_1y": 601231.1586402266,
+                "week_more_than_X_ratio": 0.8208
             },
             "fulfilled": false
         },
@@ -1429,9 +1429,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 137007.14285714287,
-                "average_daily_1y": 140367.16981132075,
-                "week_more_than_X_ratio": 0.32620320855614976
+                "average_daily_3m": 30226.923809523814,
+                "average_daily_1y": 29089.212464589236,
+                "week_more_than_X_ratio": 0.039
             },
             "fulfilled": false
         },
@@ -1474,9 +1474,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 119086.75714285717,
-                "average_daily_1y": 153341.6528301887,
-                "week_more_than_X_ratio": 0.0748663101604278
+                "average_daily_3m": 25945.952380952385,
+                "average_daily_1y": 28615.313881019832,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -1519,9 +1519,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 157823.24285714288,
-                "average_daily_1y": 138912.42641509432,
-                "week_more_than_X_ratio": 0.47593582887700536
+                "average_daily_3m": 33867.031746031746,
+                "average_daily_1y": 28382.241926345614,
+                "week_more_than_X_ratio": 0.019
             },
             "fulfilled": false
         },
@@ -1564,9 +1564,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 158901.6,
-                "average_daily_1y": 210866.19245283018,
-                "week_more_than_X_ratio": 0.36363636363636365
+                "average_daily_3m": 34028.04761904762,
+                "average_daily_1y": 45457.6940509915,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -1609,8 +1609,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 17887.14285714286,
-                "average_daily_1y": 19169.52452830189,
+                "average_daily_3m": 3934.133333333333,
+                "average_daily_1y": 4029.4866855524074,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -1654,9 +1654,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1421810.6142857145,
-                "average_daily_1y": 875183.5018867925,
-                "week_more_than_X_ratio": 0.9518716577540107
+                "average_daily_3m": 311346.1523809523,
+                "average_daily_1y": 168631.61869688384,
+                "week_more_than_X_ratio": 0.3013
             },
             "fulfilled": false
         },
@@ -1699,9 +1699,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4355002.857142857,
-                "average_daily_1y": 4280118.667924528,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 958393.2222222224,
+                "average_daily_1y": 972454.1420289857,
+                "week_more_than_X_ratio": 0.998
             },
             "fulfilled": false
         },
@@ -1744,9 +1744,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 16772.85714285714,
-                "average_daily_1y": 17077.743396226415,
-                "week_more_than_X_ratio": 0.03208556149732621
+                "average_daily_3m": 3679.9555555555553,
+                "average_daily_1y": 3665.1405099150143,
+                "week_more_than_X_ratio": 0.002
             },
             "fulfilled": false
         },
@@ -1789,8 +1789,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 703.3333333333334,
-                "average_daily_1y": 353.3607843137255,
+                "average_daily_3m": 134.1079365079365,
+                "average_daily_1y": 73.20396600566572,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -1834,9 +1834,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 474678.5714285714,
-                "average_daily_1y": 559474.5773584906,
-                "week_more_than_X_ratio": 0.9358288770053476
+                "average_daily_3m": 104005.81904761904,
+                "average_daily_1y": 115276.8759206799,
+                "week_more_than_X_ratio": 0.2242
             },
             "fulfilled": false
         },
@@ -1879,9 +1879,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 204041.42857142858,
-                "average_daily_1y": 209679.54716981133,
-                "week_more_than_X_ratio": 0.40106951871657753
+                "average_daily_3m": 43356.11746031746,
+                "average_daily_1y": 43351.336543909354,
+                "week_more_than_X_ratio": 0.011
             },
             "fulfilled": false
         },
@@ -1924,9 +1924,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 12611.42857142857,
-                "average_daily_1y": 14918.867924528302,
-                "week_more_than_X_ratio": 0.0748663101604278
+                "average_daily_3m": 2798.025396825397,
+                "average_daily_1y": 3316.967138810198,
+                "week_more_than_X_ratio": 0.004
             },
             "fulfilled": false
         },
@@ -1969,9 +1969,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 62162.857142857145,
-                "average_daily_1y": 52252.45283018868,
-                "week_more_than_X_ratio": 0.2727272727272727
+                "average_daily_3m": 13614.609523809526,
+                "average_daily_1y": 10375.875920679888,
+                "week_more_than_X_ratio": 0.007
             },
             "fulfilled": false
         },
@@ -2014,9 +2014,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 147002.85714285713,
-                "average_daily_1y": 43763.77358490566,
-                "week_more_than_X_ratio": 0.11320754716981132
+                "average_daily_3m": 31637.742857142857,
+                "average_daily_1y": 6687.198270893373,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -2059,8 +2059,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1510.0,
-                "average_daily_1y": 2521.0943396226417,
+                "average_daily_3m": 335.431746031746,
+                "average_daily_1y": 599.2090651558074,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -2104,9 +2104,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 386361.4285714286,
-                "average_daily_1y": 382159.29433962266,
-                "week_more_than_X_ratio": 0.5935828877005348
+                "average_daily_3m": 84761.47936507937,
+                "average_daily_1y": 82490.00113314447,
+                "week_more_than_X_ratio": 0.0621
             },
             "fulfilled": false
         },
@@ -2149,9 +2149,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 81854.28571428571,
-                "average_daily_1y": 182947.2641509434,
-                "week_more_than_X_ratio": 0.5294117647058824
+                "average_daily_3m": 17511.066666666666,
+                "average_daily_1y": 46578.40113314447,
+                "week_more_than_X_ratio": 0.009
             },
             "fulfilled": false
         },
@@ -2194,8 +2194,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 15355.714285714286,
-                "average_daily_1y": 20319.003773584904,
+                "average_daily_3m": 3354.215873015873,
+                "average_daily_1y": 4255.96940509915,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -2239,9 +2239,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 216620.0,
-                "average_daily_1y": 319650.9433962264,
-                "week_more_than_X_ratio": 0.39572192513368987
+                "average_daily_3m": 47083.6984126984,
+                "average_daily_1y": 70423.93937677055,
+                "week_more_than_X_ratio": 0.027
             },
             "fulfilled": false
         },
@@ -2284,9 +2284,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 19031971.42857143,
-                "average_daily_1y": 8327960.018867925,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 4160975.0825396823,
+                "average_daily_1y": 1409960.9671388105,
+                "week_more_than_X_ratio": 0.988
             },
             "fulfilled": false
         },
@@ -2329,9 +2329,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 153921.2857142857,
-                "average_daily_1y": 131344.50943396226,
-                "week_more_than_X_ratio": 0.47593582887700536
+                "average_daily_3m": 33732.42857142857,
+                "average_daily_1y": 30344.701416430595,
+                "week_more_than_X_ratio": 0.1321
             },
             "fulfilled": false
         },
@@ -2374,8 +2374,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4552.228571428572,
-                "average_daily_1y": 5325.03396226415,
+                "average_daily_3m": 990.0444444444444,
+                "average_daily_1y": 1167.3643059490087,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -2419,8 +2419,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 17605.714285714286,
-                "average_daily_1y": 10165.890566037735,
+                "average_daily_3m": 3888.155555555556,
+                "average_daily_1y": 1847.2,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -2464,8 +2464,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1213.2714285714285,
-                "average_daily_1y": 747.2792452830189,
+                "average_daily_3m": 269.8666666666666,
+                "average_daily_1y": 152.26175637393766,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -2509,9 +2509,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1489558.5714285714,
-                "average_daily_1y": 1244155.5811320755,
-                "week_more_than_X_ratio": 0.4385026737967914
+                "average_daily_3m": 329626.48253968253,
+                "average_daily_1y": 269742.16997167136,
+                "week_more_than_X_ratio": 0.2332
             },
             "fulfilled": false
         },
@@ -2554,8 +2554,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3332.8571428571427,
-                "average_daily_1y": 1436.6377358490563,
+                "average_daily_3m": 745.0317460317459,
+                "average_daily_1y": 237.05665722379604,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -2599,9 +2599,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 311412.85714285716,
-                "average_daily_1y": 289158.4905660377,
-                "week_more_than_X_ratio": 0.8449197860962567
+                "average_daily_3m": 68889.79047619048,
+                "average_daily_1y": 56523.79376770538,
+                "week_more_than_X_ratio": 0.2883
             },
             "fulfilled": false
         },
@@ -2644,9 +2644,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 76187.14285714286,
-                "average_daily_1y": 154453.4188679245,
-                "week_more_than_X_ratio": 0.3422459893048128
+                "average_daily_3m": 16716.41587301587,
+                "average_daily_1y": 31904.150708215297,
+                "week_more_than_X_ratio": 0.008
             },
             "fulfilled": false
         },
@@ -2689,8 +2689,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 822.8571428571429,
-                "average_daily_1y": 812.6377358490565,
+                "average_daily_3m": 182.82857142857148,
+                "average_daily_1y": 177.94560906515582,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -2734,9 +2734,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 933179.2999999999,
-                "average_daily_1y": 414664.8641509434,
-                "week_more_than_X_ratio": 0.3048128342245989
+                "average_daily_3m": 205519.4317460317,
+                "average_daily_1y": 73439.15297450425,
+                "week_more_than_X_ratio": 0.028
             },
             "fulfilled": false
         },
@@ -2779,9 +2779,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 296990.0,
-                "average_daily_1y": 187303.77358490566,
-                "week_more_than_X_ratio": 0.6363636363636364
+                "average_daily_3m": 63434.19365079365,
+                "average_daily_1y": 36670.67988668555,
+                "week_more_than_X_ratio": 0.1141
             },
             "fulfilled": false
         },
@@ -2824,9 +2824,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 918556.0571428572,
-                "average_daily_1y": 874201.7509433961,
-                "week_more_than_X_ratio": 0.2887700534759358
+                "average_daily_3m": 200756.6412698413,
+                "average_daily_1y": 176256.26458923516,
+                "week_more_than_X_ratio": 0.1071
             },
             "fulfilled": false
         },
@@ -2869,9 +2869,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1792814.1,
-                "average_daily_1y": 1796746.4754716982,
-                "week_more_than_X_ratio": 0.9090909090909091
+                "average_daily_3m": 392795.05396825407,
+                "average_daily_1y": 392527.17393767706,
+                "week_more_than_X_ratio": 0.3874
             },
             "fulfilled": false
         },
@@ -2914,9 +2914,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1169661.4285714286,
-                "average_daily_1y": 1017864.3283018867,
-                "week_more_than_X_ratio": 0.9679144385026738
+                "average_daily_3m": 256559.30793650798,
+                "average_daily_1y": 193419.90821529747,
+                "week_more_than_X_ratio": 0.3554
             },
             "fulfilled": false
         },
@@ -2959,9 +2959,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 437875.71428571426,
-                "average_daily_1y": 247730.56603773584,
-                "week_more_than_X_ratio": 0.7058823529411765
+                "average_daily_3m": 94710.1365079365,
+                "average_daily_1y": 47057.21303116147,
+                "week_more_than_X_ratio": 0.031
             },
             "fulfilled": false
         },
@@ -3004,9 +3004,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 6940821.428571428,
-                "average_daily_1y": 6949906.037735849,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1511561.1523809528,
+                "average_daily_1y": 1452483.7167138811,
+                "week_more_than_X_ratio": 0.999
             },
             "fulfilled": false
         },
@@ -3049,9 +3049,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1985381.4285714286,
-                "average_daily_1y": 1022328.3018867924,
-                "week_more_than_X_ratio": 0.8770053475935828
+                "average_daily_3m": 435152.8063492064,
+                "average_daily_1y": 178320.03059490083,
+                "week_more_than_X_ratio": 0.2202
             },
             "fulfilled": false
         },
@@ -3094,9 +3094,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 625872.8571428572,
-                "average_daily_1y": 638331.045283019,
-                "week_more_than_X_ratio": 0.8288770053475936
+                "average_daily_3m": 136236.19047619047,
+                "average_daily_1y": 131811.53087818695,
+                "week_more_than_X_ratio": 0.0947
             },
             "fulfilled": false
         },
@@ -3139,9 +3139,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2275823.3,
-                "average_daily_1y": 1413444.8679245282,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 502854.40317460324,
+                "average_daily_1y": 278482.1705382436,
+                "week_more_than_X_ratio": 0.6186
             },
             "fulfilled": false
         },
@@ -3184,8 +3184,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2244.285714285714,
-                "average_daily_1y": 1580.377358490566,
+                "average_daily_3m": 499.8920634920635,
+                "average_daily_1y": 349.1342776203966,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -3229,9 +3229,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 214785.55714285714,
-                "average_daily_1y": 116731.18867924529,
-                "week_more_than_X_ratio": 0.08021390374331551
+                "average_daily_3m": 47483.36825396826,
+                "average_daily_1y": 22297.67535410765,
+                "week_more_than_X_ratio": 0.003
             },
             "fulfilled": false
         },
@@ -3274,9 +3274,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 198414.2857142857,
-                "average_daily_1y": 161578.49056603774,
-                "week_more_than_X_ratio": 0.5614973262032086
+                "average_daily_3m": 43635.69523809524,
+                "average_daily_1y": 30668.194334277625,
+                "week_more_than_X_ratio": 0.1491
             },
             "fulfilled": false
         },
@@ -3319,8 +3319,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3007.1428571428573,
-                "average_daily_1y": 1356.6037735849056,
+                "average_daily_3m": 674.8888888888888,
+                "average_daily_1y": 254.43456090651557,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -3364,9 +3364,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 9331760.0,
-                "average_daily_1y": 6489067.924528302,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2050229.9269841267,
+                "average_daily_1y": 1267070.6362606233,
+                "week_more_than_X_ratio": 0.956
             },
             "fulfilled": false
         },
@@ -3409,9 +3409,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 181376.44285714283,
-                "average_daily_1y": 270453.85660377354,
-                "week_more_than_X_ratio": 0.20320855614973263
+                "average_daily_3m": 39590.685714285726,
+                "average_daily_1y": 60969.96827195467,
+                "week_more_than_X_ratio": 0.017
             },
             "fulfilled": false
         },
@@ -3454,8 +3454,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 8835.714285714286,
-                "average_daily_1y": 9020.377358490567,
+                "average_daily_3m": 1968.752380952381,
+                "average_daily_1y": 2105.5059490084986,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -3499,9 +3499,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1506380.857142857,
-                "average_daily_1y": 825264.9245283019,
-                "week_more_than_X_ratio": 0.44919786096256686
+                "average_daily_3m": 329802.56507936504,
+                "average_daily_1y": 151498.42776203965,
+                "week_more_than_X_ratio": 0.1011
             },
             "fulfilled": false
         },
@@ -3544,9 +3544,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 662074.2857142857,
-                "average_daily_1y": 469256.6037735849,
-                "week_more_than_X_ratio": 0.36363636363636365
+                "average_daily_3m": 142190.35555555555,
+                "average_daily_1y": 90481.12351274787,
+                "week_more_than_X_ratio": 0.03
             },
             "fulfilled": false
         },
@@ -3589,9 +3589,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3846678.5857142857,
-                "average_daily_1y": 2995789.366037736,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 844063.4349206352,
+                "average_daily_1y": 633586.9671388102,
+                "week_more_than_X_ratio": 0.983
             },
             "fulfilled": false
         },
@@ -3634,9 +3634,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1964582.857142857,
-                "average_daily_1y": 1724431.358490566,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 431429.2380952381,
+                "average_daily_1y": 357838.0458923513,
+                "week_more_than_X_ratio": 0.8859
             },
             "fulfilled": false
         },
@@ -3679,9 +3679,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2550281.785714286,
-                "average_daily_1y": 1544851.090566038,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 562957.165079365,
+                "average_daily_1y": 300996.0317280453,
+                "week_more_than_X_ratio": 0.6336
             },
             "fulfilled": false
         },
@@ -3724,9 +3724,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 90642.85714285714,
-                "average_daily_1y": 53372.12452830189,
-                "week_more_than_X_ratio": 0.016042780748663103
+                "average_daily_3m": 20072.111111111106,
+                "average_daily_1y": 10609.789801699717,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -3769,9 +3769,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 249856.47142857144,
-                "average_daily_1y": 238601.59622641507,
-                "week_more_than_X_ratio": 0.40641711229946526
+                "average_daily_3m": 55230.031746031746,
+                "average_daily_1y": 47960.05439093484,
+                "week_more_than_X_ratio": 0.02
             },
             "fulfilled": false
         },
@@ -3814,8 +3814,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 25293.37142857143,
-                "average_daily_1y": 23008.67169811321,
+                "average_daily_3m": 5559.860317460318,
+                "average_daily_1y": 4911.879886685552,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -3859,9 +3859,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 25667.14285714286,
-                "average_daily_1y": 24785.826415094336,
-                "week_more_than_X_ratio": 0.2620320855614973
+                "average_daily_3m": 5619.977777777777,
+                "average_daily_1y": 5482.196033994334,
+                "week_more_than_X_ratio": 0.002
             },
             "fulfilled": false
         },
@@ -3904,9 +3904,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 17530577.842857145,
-                "average_daily_1y": 11857240.766037736,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 3858965.688888889,
+                "average_daily_1y": 2358030.938243626,
+                "week_more_than_X_ratio": 0.998
             },
             "fulfilled": false
         },
@@ -3949,9 +3949,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3483288.5714285714,
-                "average_daily_1y": 1889337.7358490566,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 766075.0857142857,
+                "average_daily_1y": 346905.06572237954,
+                "week_more_than_X_ratio": 0.7277
             },
             "fulfilled": false
         },
@@ -3994,8 +3994,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5162.857142857143,
-                "average_daily_1y": 5332.007547169812,
+                "average_daily_3m": 1083.168253968254,
+                "average_daily_1y": 888.4923512747876,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -4039,9 +4039,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1573558.057142857,
-                "average_daily_1y": 904100.5924528303,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 345302.453968254,
+                "average_daily_1y": 178244.1954674221,
+                "week_more_than_X_ratio": 0.3263
             },
             "fulfilled": false
         },
@@ -4084,9 +4084,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3695608.8428571424,
-                "average_daily_1y": 2884253.886792453,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 813495.3269841272,
+                "average_daily_1y": 595963.552407932,
+                "week_more_than_X_ratio": 0.9329
             },
             "fulfilled": false
         },
@@ -4129,9 +4129,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 930978.5714285715,
-                "average_daily_1y": 657629.0113207548,
-                "week_more_than_X_ratio": 0.5508021390374331
+                "average_daily_3m": 203173.54603174602,
+                "average_daily_1y": 118303.5909348442,
+                "week_more_than_X_ratio": 0.0871
             },
             "fulfilled": false
         },
@@ -4174,9 +4174,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 26051.428571428572,
-                "average_daily_1y": 17156.603773584906,
-                "week_more_than_X_ratio": 0.10695187165775401
+                "average_daily_3m": 5714.419047619048,
+                "average_daily_1y": 3175.9263456090653,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -4219,9 +4219,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 710156.9571428573,
-                "average_daily_1y": 590747.4566037735,
-                "week_more_than_X_ratio": 0.8770053475935828
+                "average_daily_3m": 154455.0603174603,
+                "average_daily_1y": 118286.43512747873,
+                "week_more_than_X_ratio": 0.1672
             },
             "fulfilled": false
         },
@@ -4264,9 +4264,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1558162.857142857,
-                "average_daily_1y": 552169.0566037736,
-                "week_more_than_X_ratio": 0.8288770053475936
+                "average_daily_3m": 337286.79365079367,
+                "average_daily_1y": 90768.19376770538,
+                "week_more_than_X_ratio": 0.5165
             },
             "fulfilled": false
         },
@@ -4309,8 +4309,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3997.8571428571427,
-                "average_daily_1y": 4735.162264150944,
+                "average_daily_3m": 886.8539682539684,
+                "average_daily_1y": 1052.9031161473085,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -4354,9 +4354,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 90970.0,
-                "average_daily_1y": 80279.24528301887,
-                "week_more_than_X_ratio": 0.22459893048128343
+                "average_daily_3m": 20007.41587301587,
+                "average_daily_1y": 17978.102064896753,
+                "week_more_than_X_ratio": 0.014
             },
             "fulfilled": false
         },
@@ -4399,9 +4399,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 494125.71428571426,
-                "average_daily_1y": 407370.28301886795,
-                "week_more_than_X_ratio": 0.7719298245614035
+                "average_daily_3m": 109689.73015873018,
+                "average_daily_1y": 78583.37280453257,
+                "week_more_than_X_ratio": 0.0553
             },
             "fulfilled": false
         },
@@ -4444,8 +4444,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 8790.0,
-                "average_daily_1y": 9994.867924528302,
+                "average_daily_3m": 1804.292063492063,
+                "average_daily_1y": 2018.8917847025498,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -4489,9 +4489,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 44441.42857142857,
-                "average_daily_1y": 36627.54716981132,
-                "week_more_than_X_ratio": 0.0053475935828877
+                "average_daily_3m": 9732.647619047622,
+                "average_daily_1y": 6230.203399433429,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -4534,8 +4534,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1087.142857142857,
-                "average_daily_1y": 4396.603773584906,
+                "average_daily_3m": 241.8825396825397,
+                "average_daily_1y": 1239.6526912181303,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -4579,8 +4579,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 99.92857142857143,
-                "average_daily_1y": 298.4792452830189,
+                "average_daily_3m": 22.238095238095237,
+                "average_daily_1y": 78.27365439093484,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -4624,8 +4624,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 14019.857142857143,
-                "average_daily_1y": 12664.267924528302,
+                "average_daily_3m": 3082.885714285714,
+                "average_daily_1y": 2427.788668555241,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -4669,11 +4669,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 17852877.542857144,
-                "average_daily_1y": 14176030.373584906,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 3911229.0031746035,
+                "average_daily_1y": 3006915.5541076493,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Bất động sản",
         "market_cap": 19664.0,
@@ -4714,9 +4714,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3932222.8571428573,
-                "average_daily_1y": 2146792.452830189,
-                "week_more_than_X_ratio": 0.9411764705882353
+                "average_daily_3m": 867594.4222222221,
+                "average_daily_1y": 406764.50481586397,
+                "week_more_than_X_ratio": 0.6236
             },
             "fulfilled": false
         },
@@ -4759,9 +4759,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 17450.0,
-                "average_daily_1y": 14693.962264150943,
-                "week_more_than_X_ratio": 0.0106951871657754
+                "average_daily_3m": 3331.920634920635,
+                "average_daily_1y": 3167.2849858356944,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -4804,9 +4804,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 13990305.714285715,
-                "average_daily_1y": 9041072.373584906,
-                "week_more_than_X_ratio": 0.9358288770053476
+                "average_daily_3m": 3059883.2634920636,
+                "average_daily_1y": 1774360.4447592068,
+                "week_more_than_X_ratio": 0.8158
             },
             "fulfilled": false
         },
@@ -4849,9 +4849,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 882124.2857142857,
-                "average_daily_1y": 672134.720754717,
-                "week_more_than_X_ratio": 0.8716577540106952
+                "average_daily_3m": 194087.41269841275,
+                "average_daily_1y": 133459.4895184136,
+                "week_more_than_X_ratio": 0.1542
             },
             "fulfilled": false
         },
@@ -4894,9 +4894,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 76810.0,
-                "average_daily_1y": 51469.11698113208,
-                "week_more_than_X_ratio": 0.2192513368983957
+                "average_daily_3m": 16885.403174603176,
+                "average_daily_1y": 10616.407365439092,
+                "week_more_than_X_ratio": 0.017
             },
             "fulfilled": false
         },
@@ -4939,9 +4939,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 15348292.857142856,
-                "average_daily_1y": 8338205.920754718,
-                "week_more_than_X_ratio": 0.8655913978494624
+                "average_daily_3m": 3361432.5682539684,
+                "average_daily_1y": 1513027.1490084988,
+                "week_more_than_X_ratio": 0.6304
             },
             "fulfilled": false
         },
@@ -4984,9 +4984,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1442484.2857142857,
-                "average_daily_1y": 1360475.8490566039,
-                "week_more_than_X_ratio": 0.8663101604278075
+                "average_daily_3m": 318247.3587301588,
+                "average_daily_1y": 295661.788101983,
+                "week_more_than_X_ratio": 0.5996
             },
             "fulfilled": false
         },
@@ -5029,9 +5029,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 172692.85714285713,
-                "average_daily_1y": 153857.47547169813,
-                "week_more_than_X_ratio": 0.25133689839572193
+                "average_daily_3m": 38009.90158730159,
+                "average_daily_1y": 24895.93654390935,
+                "week_more_than_X_ratio": 0.026
             },
             "fulfilled": false
         },
@@ -5074,9 +5074,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1899727.142857143,
-                "average_daily_1y": 1040173.5849056604,
-                "week_more_than_X_ratio": 0.9411764705882353
+                "average_daily_3m": 416868.0444444444,
+                "average_daily_1y": 173180.6402266289,
+                "week_more_than_X_ratio": 0.6637
             },
             "fulfilled": false
         },
@@ -5119,8 +5119,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 716.6666666666666,
-                "average_daily_1y": 5350.196078431372,
+                "average_daily_3m": 137.10793650793653,
+                "average_daily_1y": 1469.7246458923514,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -5164,9 +5164,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 513208.4714285714,
-                "average_daily_1y": 380312.1773584906,
-                "week_more_than_X_ratio": 0.8877005347593583
+                "average_daily_3m": 108374.3746031746,
+                "average_daily_1y": 77682.80339943343,
+                "week_more_than_X_ratio": 0.0951
             },
             "fulfilled": false
         },
@@ -5209,9 +5209,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1568474.2857142857,
-                "average_daily_1y": 1007675.8490566037,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 346146.9555555555,
+                "average_daily_1y": 182386.51218130311,
+                "week_more_than_X_ratio": 0.5556
             },
             "fulfilled": false
         },
@@ -5254,9 +5254,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 121322.81428571428,
-                "average_daily_1y": 72705.21132075472,
-                "week_more_than_X_ratio": 0.08021390374331551
+                "average_daily_3m": 26436.94603174603,
+                "average_daily_1y": 13069.556940509914,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -5299,9 +5299,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5843777.285714285,
-                "average_daily_1y": 4933952.701886793,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 1276918.8539682538,
+                "average_daily_1y": 964759.4062322947,
+                "week_more_than_X_ratio": 0.8308
             },
             "fulfilled": false
         },
@@ -5344,9 +5344,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 414871.0,
-                "average_daily_1y": 462750.81132075464,
-                "week_more_than_X_ratio": 0.9786096256684492
+                "average_daily_3m": 88390.30476190474,
+                "average_daily_1y": 96858.87025495751,
+                "week_more_than_X_ratio": 0.2863
             },
             "fulfilled": false
         },
@@ -5389,9 +5389,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4625271.428571428,
-                "average_daily_1y": 3015431.0754716983,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 1009929.1968253967,
+                "average_daily_1y": 588293.9552407933,
+                "week_more_than_X_ratio": 0.7307
             },
             "fulfilled": false
         },
@@ -5402,11 +5402,11 @@
     "GAS": {
         "dividend": {
             "value": {
-                "2024": null,
+                "2024": 0.031,
                 "2023": 0.087,
                 "2022": 0.048
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "pe": {
             "value": {
@@ -5434,9 +5434,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 981991.4285714285,
-                "average_daily_1y": 888545.7471698115,
-                "week_more_than_X_ratio": 0.9197860962566845
+                "average_daily_3m": 216835.80634920634,
+                "average_daily_1y": 185604.60339943343,
+                "week_more_than_X_ratio": 0.2322
             },
             "fulfilled": false
         },
@@ -5479,9 +5479,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 54050.25714285714,
-                "average_daily_1y": 38861.14339622642,
-                "week_more_than_X_ratio": 0.016042780748663103
+                "average_daily_3m": 11818.136507936506,
+                "average_daily_1y": 7345.326345609064,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -5524,9 +5524,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 960430.0142857142,
-                "average_daily_1y": 598443.3094339622,
-                "week_more_than_X_ratio": 0.21910112359550563
+                "average_daily_3m": 207868.04761904763,
+                "average_daily_1y": 106640.61602373888,
+                "week_more_than_X_ratio": 0.0699
             },
             "fulfilled": false
         },
@@ -5569,9 +5569,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2500084.285714286,
-                "average_daily_1y": 1178770.649056604,
-                "week_more_than_X_ratio": 0.9411764705882353
+                "average_daily_3m": 550917.0476190476,
+                "average_daily_1y": 206344.6419263456,
+                "week_more_than_X_ratio": 0.4194
             },
             "fulfilled": false
         },
@@ -5614,9 +5614,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 11990699.614285713,
-                "average_daily_1y": 8607875.290566036,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2626487.307936508,
+                "average_daily_1y": 1598530.0855524081,
+                "week_more_than_X_ratio": 0.999
             },
             "fulfilled": false
         },
@@ -5659,9 +5659,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 807627.1428571428,
-                "average_daily_1y": 544916.316981132,
-                "week_more_than_X_ratio": 0.9411764705882353
+                "average_daily_3m": 177716.03809523807,
+                "average_daily_1y": 106442.79320113314,
+                "week_more_than_X_ratio": 0.2142
             },
             "fulfilled": false
         },
@@ -5704,9 +5704,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2530076.8857142855,
-                "average_daily_1y": 1492013.083018868,
-                "week_more_than_X_ratio": 0.9732620320855615
+                "average_daily_3m": 540513.1936507939,
+                "average_daily_1y": 276908.40793201135,
+                "week_more_than_X_ratio": 0.5065
             },
             "fulfilled": false
         },
@@ -5749,9 +5749,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4348.585714285714,
-                "average_daily_1y": 2489.0603773584908,
-                "week_more_than_X_ratio": 0.05913978494623656
+                "average_daily_3m": 965.5492063492063,
+                "average_daily_1y": 500.6651558073654,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -5762,7 +5762,7 @@
     "GSP": {
         "dividend": {
             "value": {
-                "2024": null,
+                "2024": 0.035,
                 "2023": null,
                 "2022": 0.13
             },
@@ -5794,9 +5794,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 88931.42857142857,
-                "average_daily_1y": 205388.679245283,
-                "week_more_than_X_ratio": 0.32620320855614976
+                "average_daily_3m": 19575.996825396825,
+                "average_daily_1y": 43070.49348441926,
+                "week_more_than_X_ratio": 0.019
             },
             "fulfilled": false
         },
@@ -5807,11 +5807,11 @@
     "GTA": {
         "dividend": {
             "value": {
-                "2024": null,
+                "2024": 0.048,
                 "2023": 0.039,
                 "2022": 0.059
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "pe": {
             "value": {
@@ -5839,8 +5839,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 391.42857142857144,
-                "average_daily_1y": 2050.566037735849,
+                "average_daily_3m": 87.6253968253968,
+                "average_daily_1y": 372.90141643059485,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -5884,9 +5884,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4317254.285714285,
-                "average_daily_1y": 3128375.449056604,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 941459.003174603,
+                "average_daily_1y": 613622.3552407931,
+                "week_more_than_X_ratio": 0.9459
             },
             "fulfilled": false
         },
@@ -5929,9 +5929,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 10155304.285714285,
-                "average_daily_1y": 7224158.867924528,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2142990.504761905,
+                "average_daily_1y": 1467561.1257790367,
+                "week_more_than_X_ratio": 0.999
             },
             "fulfilled": false
         },
@@ -5974,9 +5974,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2726077.1428571427,
-                "average_daily_1y": 2450596.603773585,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 594723.9365079365,
+                "average_daily_1y": 505034.2413597733,
+                "week_more_than_X_ratio": 0.8689
             },
             "fulfilled": false
         },
@@ -6019,9 +6019,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 290237.14285714284,
-                "average_daily_1y": 189940.37735849057,
-                "week_more_than_X_ratio": 0.40106951871657753
+                "average_daily_3m": 58076.558730158744,
+                "average_daily_1y": 31736.158073654387,
+                "week_more_than_X_ratio": 0.026
             },
             "fulfilled": false
         },
@@ -6064,9 +6064,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 525155.7142857143,
-                "average_daily_1y": 264309.8113207547,
-                "week_more_than_X_ratio": 0.6524064171122995
+                "average_daily_3m": 116200.04126984128,
+                "average_daily_1y": 49862.551841359775,
+                "week_more_than_X_ratio": 0.1401
             },
             "fulfilled": false
         },
@@ -6109,8 +6109,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 388.57142857142856,
-                "average_daily_1y": 627.5471698113207,
+                "average_daily_3m": 83.39999999999998,
+                "average_daily_1y": 163.3784702549575,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -6154,9 +6154,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1796353.1285714286,
-                "average_daily_1y": 1043902.1018867926,
-                "week_more_than_X_ratio": 0.93048128342246
+                "average_daily_3m": 397303.23492063495,
+                "average_daily_1y": 205310.75807365438,
+                "week_more_than_X_ratio": 0.2923
             },
             "fulfilled": false
         },
@@ -6199,9 +6199,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 67271.42857142857,
-                "average_daily_1y": 88243.01886792453,
-                "week_more_than_X_ratio": 0.5668449197860963
+                "average_daily_3m": 14857.060317460317,
+                "average_daily_1y": 19421.776770538243,
+                "week_more_than_X_ratio": 0.0841
             },
             "fulfilled": false
         },
@@ -6244,9 +6244,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 12640187.414285716,
-                "average_daily_1y": 9921597.052830188,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2767317.673015873,
+                "average_daily_1y": 2012210.79490085,
+                "week_more_than_X_ratio": 0.999
             },
             "fulfilled": false
         },
@@ -6289,9 +6289,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 13140601.42857143,
-                "average_daily_1y": 9868615.403773585,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2875571.307936508,
+                "average_daily_1y": 1934959.7977337108,
+                "week_more_than_X_ratio": 0.973
             },
             "fulfilled": false
         },
@@ -6334,9 +6334,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5087835.714285715,
-                "average_daily_1y": 3154514.4415094336,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 1118481.288888889,
+                "average_daily_1y": 601625.6708215297,
+                "week_more_than_X_ratio": 0.7267
             },
             "fulfilled": false
         },
@@ -6379,9 +6379,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4182315.3571428573,
-                "average_daily_1y": 3357261.2264150945,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 921335.6888888889,
+                "average_daily_1y": 718347.6436260623,
+                "week_more_than_X_ratio": 0.8258
             },
             "fulfilled": false
         },
@@ -6424,9 +6424,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 102338.57142857143,
-                "average_daily_1y": 143220.37735849057,
-                "week_more_than_X_ratio": 0.41711229946524064
+                "average_daily_3m": 21621.069841269837,
+                "average_daily_1y": 30514.36883852691,
+                "week_more_than_X_ratio": 0.036
             },
             "fulfilled": false
         },
@@ -6469,9 +6469,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 7094015.714285715,
-                "average_daily_1y": 3438510.550943396,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1552126.933333333,
+                "average_daily_1y": 602128.8022662889,
+                "week_more_than_X_ratio": 0.8058
             },
             "fulfilled": false
         },
@@ -6514,9 +6514,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 9448970.114285713,
-                "average_daily_1y": 6377196.86037736,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 2081190.5619047617,
+                "average_daily_1y": 1188582.2691218131,
+                "week_more_than_X_ratio": 0.9808
             },
             "fulfilled": false
         },
@@ -6559,9 +6559,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 151150.0,
-                "average_daily_1y": 80884.52830188679,
-                "week_more_than_X_ratio": 0.37433155080213903
+                "average_daily_3m": 33423.59682539682,
+                "average_daily_1y": 15214.745042492917,
+                "week_more_than_X_ratio": 0.034
             },
             "fulfilled": false
         },
@@ -6604,9 +6604,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 73157.1,
-                "average_daily_1y": 77356.50188679245,
-                "week_more_than_X_ratio": 0.29411764705882354
+                "average_daily_3m": 16188.333333333332,
+                "average_daily_1y": 15415.715014164307,
+                "week_more_than_X_ratio": 0.017
             },
             "fulfilled": false
         },
@@ -6649,9 +6649,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 9726.742857142857,
-                "average_daily_1y": 19901.471698113208,
-                "week_more_than_X_ratio": 0.0374331550802139
+                "average_daily_3m": 2143.1746031746034,
+                "average_daily_1y": 4531.977337110482,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -6694,8 +6694,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3407.1428571428573,
-                "average_daily_1y": 3070.0415094339623,
+                "average_daily_3m": 761.3873015873015,
+                "average_daily_1y": 700.5779036827196,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -6739,11 +6739,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 31594136.528571427,
-                "average_daily_1y": 23678995.709433965,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 6946359.780952382,
+                "average_daily_1y": 4683094.768271956,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Tài nguyên Cơ bản",
         "market_cap": 194957.0,
@@ -6784,9 +6784,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3057824.285714286,
-                "average_daily_1y": 2038777.7358490566,
-                "week_more_than_X_ratio": 0.839572192513369
+                "average_daily_3m": 673199.9206349206,
+                "average_daily_1y": 396931.5682719547,
+                "week_more_than_X_ratio": 0.5586
             },
             "fulfilled": false
         },
@@ -6829,9 +6829,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 9085872.857142856,
-                "average_daily_1y": 4543953.20754717,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1984676.326984127,
+                "average_daily_1y": 828861.9416430594,
+                "week_more_than_X_ratio": 0.994
             },
             "fulfilled": false
         },
@@ -6874,9 +6874,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 490.0,
-                "average_daily_1y": 824.9056603773585,
-                "week_more_than_X_ratio": 0.0106951871657754
+                "average_daily_3m": 111.60952380952381,
+                "average_daily_1y": 136.28328611898016,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -6919,11 +6919,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 8678931.42857143,
-                "average_daily_1y": 7409764.981132075,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1897247.8634920635,
+                "average_daily_1y": 1553960.8747875355,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Tài nguyên Cơ bản",
         "market_cap": 11737.0,
@@ -6964,9 +6964,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 305070.0,
-                "average_daily_1y": 132886.57735849055,
-                "week_more_than_X_ratio": 0.28342245989304815
+                "average_daily_3m": 67468.22857142857,
+                "average_daily_1y": 24143.9223796034,
+                "week_more_than_X_ratio": 0.034
             },
             "fulfilled": false
         },
@@ -7009,9 +7009,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 505464.28571428574,
-                "average_daily_1y": 457850.9433962264,
-                "week_more_than_X_ratio": 0.9251336898395722
+                "average_daily_3m": 111202.3238095238,
+                "average_daily_1y": 89986.20396600566,
+                "week_more_than_X_ratio": 0.2132
             },
             "fulfilled": false
         },
@@ -7054,8 +7054,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 34552.857142857145,
-                "average_daily_1y": 32012.501886792455,
+                "average_daily_3m": 7557.584126984128,
+                "average_daily_1y": 6184.635694050991,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -7099,9 +7099,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 149975.94285714286,
-                "average_daily_1y": 60949.76603773586,
-                "week_more_than_X_ratio": 0.0213903743315508
+                "average_daily_3m": 32500.66031746031,
+                "average_daily_1y": 9709.406232294617,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -7144,8 +7144,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2757.1428571428573,
-                "average_daily_1y": 6691.3056603773575,
+                "average_daily_3m": 608.1873015873015,
+                "average_daily_1y": 1721.2974504249291,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -7189,9 +7189,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 594081.4285714285,
-                "average_daily_1y": 522732.4528301887,
-                "week_more_than_X_ratio": 0.8556149732620321
+                "average_daily_3m": 131247.01904761905,
+                "average_daily_1y": 103751.45099150142,
+                "week_more_than_X_ratio": 0.1692
             },
             "fulfilled": false
         },
@@ -7234,8 +7234,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5804.285714285715,
-                "average_daily_1y": 2824.6301886792453,
+                "average_daily_3m": 1290.2571428571428,
+                "average_daily_1y": 510.91898016997163,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -7279,8 +7279,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1731.4285714285713,
-                "average_daily_1y": 1617.0150943396227,
+                "average_daily_3m": 387.41269841269843,
+                "average_daily_1y": 345.6991501416431,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -7324,9 +7324,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 40085.04285714286,
-                "average_daily_1y": 35111.11320754717,
-                "week_more_than_X_ratio": 0.0213903743315508
+                "average_daily_3m": 8842.253968253966,
+                "average_daily_1y": 7255.282152974503,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -7369,9 +7369,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 319579.6857142857,
-                "average_daily_1y": 493119.94716981135,
-                "week_more_than_X_ratio": 0.49732620320855614
+                "average_daily_3m": 69398.55555555558,
+                "average_daily_1y": 107820.3450424929,
+                "week_more_than_X_ratio": 0.0661
             },
             "fulfilled": false
         },
@@ -7414,9 +7414,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2427619.228571429,
-                "average_daily_1y": 2321019.1999999997,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 526873.3333333334,
+                "average_daily_1y": 473280.59943342785,
+                "week_more_than_X_ratio": 0.6687
             },
             "fulfilled": false
         },
@@ -7459,9 +7459,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 35392.857142857145,
-                "average_daily_1y": 20228.30188679245,
-                "week_more_than_X_ratio": 0.0053475935828877
+                "average_daily_3m": 7843.126984126983,
+                "average_daily_1y": 3965.4872521246457,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -7504,9 +7504,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 59271.542857142864,
-                "average_daily_1y": 55904.456603773586,
-                "week_more_than_X_ratio": 0.0481283422459893
+                "average_daily_3m": 13022.990476190476,
+                "average_daily_1y": 11812.082719546743,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -7549,9 +7549,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1366545.7142857143,
-                "average_daily_1y": 898478.4905660377,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 301617.85079365084,
+                "average_daily_1y": 180296.19943342774,
+                "week_more_than_X_ratio": 0.7057
             },
             "fulfilled": false
         },
@@ -7594,9 +7594,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2217108.5714285714,
-                "average_daily_1y": 2092399.2226415097,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 486178.65396825393,
+                "average_daily_1y": 392007.59943342773,
+                "week_more_than_X_ratio": 0.8428
             },
             "fulfilled": false
         },
@@ -7639,8 +7639,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5577.142857142857,
-                "average_daily_1y": 8861.298113207547,
+                "average_daily_3m": 1220.7555555555557,
+                "average_daily_1y": 1623.6895184135979,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -7684,9 +7684,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 176496.4,
-                "average_daily_1y": 169965.2113207547,
-                "week_more_than_X_ratio": 0.06951871657754011
+                "average_daily_3m": 38996.926984126985,
+                "average_daily_1y": 34562.423229461754,
+                "week_more_than_X_ratio": 0.003
             },
             "fulfilled": false
         },
@@ -7729,9 +7729,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 991665.7142857143,
-                "average_daily_1y": 521993.58490566036,
-                "week_more_than_X_ratio": 0.8663101604278075
+                "average_daily_3m": 219065.4031746032,
+                "average_daily_1y": 94335.82039660057,
+                "week_more_than_X_ratio": 0.1662
             },
             "fulfilled": false
         },
@@ -7774,9 +7774,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 52135.71428571428,
-                "average_daily_1y": 63527.16981132075,
-                "week_more_than_X_ratio": 0.13903743315508021
+                "average_daily_3m": 11387.774603174605,
+                "average_daily_1y": 13718.378470254956,
+                "week_more_than_X_ratio": 0.005
             },
             "fulfilled": false
         },
@@ -7819,9 +7819,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 603854.2857142857,
-                "average_daily_1y": 487393.96226415096,
-                "week_more_than_X_ratio": 0.9197860962566845
+                "average_daily_3m": 132774.3396825397,
+                "average_daily_1y": 89409.23966005666,
+                "week_more_than_X_ratio": 0.2593
             },
             "fulfilled": false
         },
@@ -7864,11 +7864,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 6373261.428571428,
-                "average_daily_1y": 5214582.641509434,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1381182.4825396826,
+                "average_daily_1y": 1020164.8770538245,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Bất động sản",
         "market_cap": 27923.0,
@@ -7909,9 +7909,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 442885.71428571426,
-                "average_daily_1y": 502665.520754717,
-                "week_more_than_X_ratio": 0.9679144385026738
+                "average_daily_3m": 95779.75555555556,
+                "average_daily_1y": 115146.84589235128,
+                "week_more_than_X_ratio": 0.2863
             },
             "fulfilled": false
         },
@@ -7954,9 +7954,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3174398.0571428575,
-                "average_daily_1y": 2616781.675471698,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 693630.0634920635,
+                "average_daily_1y": 542480.0351274787,
+                "week_more_than_X_ratio": 0.8438
             },
             "fulfilled": false
         },
@@ -7999,9 +7999,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 10203488.57142857,
-                "average_daily_1y": 6006456.226415094,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2254095.8698412697,
+                "average_daily_1y": 1126149.054390935,
+                "week_more_than_X_ratio": 0.9489
             },
             "fulfilled": false
         },
@@ -8044,9 +8044,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 155482.9714285714,
-                "average_daily_1y": 213446.18490566037,
-                "week_more_than_X_ratio": 0.29411764705882354
+                "average_daily_3m": 34297.00952380953,
+                "average_daily_1y": 47408.03512747875,
+                "week_more_than_X_ratio": 0.023
             },
             "fulfilled": false
         },
@@ -8089,9 +8089,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 36208.57142857143,
-                "average_daily_1y": 23734.33962264151,
-                "week_more_than_X_ratio": 0.13903743315508021
+                "average_daily_3m": 7964.530158730158,
+                "average_daily_1y": 4590.220396600567,
+                "week_more_than_X_ratio": 0.008
             },
             "fulfilled": false
         },
@@ -8134,9 +8134,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 335050.0,
-                "average_daily_1y": 348700.75471698114,
-                "week_more_than_X_ratio": 0.9411764705882353
+                "average_daily_3m": 72535.77142857143,
+                "average_daily_1y": 72164.6090651558,
+                "week_more_than_X_ratio": 0.006
             },
             "fulfilled": false
         },
@@ -8179,9 +8179,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2090351.4285714286,
-                "average_daily_1y": 1684789.8113207547,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 455683.4634920634,
+                "average_daily_1y": 321423.64192634565,
+                "week_more_than_X_ratio": 0.7828
             },
             "fulfilled": false
         },
@@ -8224,8 +8224,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 319.3142857142857,
-                "average_daily_1y": 317.6528301886792,
+                "average_daily_3m": 66.18412698412699,
+                "average_daily_1y": 60.751841359773366,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -8269,8 +8269,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 7602.857142857143,
-                "average_daily_1y": 10184.675471698114,
+                "average_daily_3m": 1683.1396825396823,
+                "average_daily_1y": 2045.0895184135977,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -8314,9 +8314,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 33355.71428571428,
-                "average_daily_1y": 43407.61132075472,
-                "week_more_than_X_ratio": 0.0053475935828877
+                "average_daily_3m": 7382.320634920635,
+                "average_daily_1y": 8162.573371104816,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -8359,9 +8359,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2540897.1428571427,
-                "average_daily_1y": 2033228.5811320755,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 559430.911111111,
+                "average_daily_1y": 402156.11784702557,
+                "week_more_than_X_ratio": 0.9049
             },
             "fulfilled": false
         },
@@ -8404,9 +8404,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 6717997.142857143,
-                "average_daily_1y": 3153567.547169811,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1485532.7015873017,
+                "average_daily_1y": 564055.8600566572,
+                "week_more_than_X_ratio": 0.8639
             },
             "fulfilled": false
         },
@@ -8449,8 +8449,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 515.3846153846154,
-                "average_daily_1y": 326.9230769230769,
+                "average_daily_3m": 102.62857142857142,
+                "average_daily_1y": 66.3614730878187,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -8494,9 +8494,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 250471.42857142858,
-                "average_daily_1y": 115908.67924528301,
-                "week_more_than_X_ratio": 0.3155080213903743
+                "average_daily_3m": 55380.17460317461,
+                "average_daily_1y": 19609.858923512747,
+                "week_more_than_X_ratio": 0.022
             },
             "fulfilled": false
         },
@@ -8539,9 +8539,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 247412.05714285717,
-                "average_daily_1y": 168972.41509433958,
-                "week_more_than_X_ratio": 0.4919786096256685
+                "average_daily_3m": 52764.193650793655,
+                "average_daily_1y": 32867.06912181303,
+                "week_more_than_X_ratio": 0.028
             },
             "fulfilled": false
         },
@@ -8584,8 +8584,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 46232.15714285714,
-                "average_daily_1y": 42041.78867924528,
+                "average_daily_3m": 10210.926984126983,
+                "average_daily_1y": 8862.691218130312,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -8629,8 +8629,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1430.0,
-                "average_daily_1y": 2770.2754716981135,
+                "average_daily_3m": 319.69841269841277,
+                "average_daily_1y": 478.27705382436255,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -8674,9 +8674,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2709052.3000000003,
-                "average_daily_1y": 2615283.230188679,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 593870.9238095237,
+                "average_daily_1y": 524302.9966005665,
+                "week_more_than_X_ratio": 0.961
             },
             "fulfilled": false
         },
@@ -8719,9 +8719,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 310477.14285714284,
-                "average_daily_1y": 356640.59245283017,
-                "week_more_than_X_ratio": 0.8449197860962567
+                "average_daily_3m": 67992.0857142857,
+                "average_daily_1y": 72796.46515580737,
+                "week_more_than_X_ratio": 0.1552
             },
             "fulfilled": false
         },
@@ -8764,11 +8764,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 20922804.285714287,
-                "average_daily_1y": 16174209.85283019,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 4538649.933333334,
+                "average_daily_1y": 3061080.5546742207,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Ngân hàng",
         "market_cap": 167202.0,
@@ -8809,9 +8809,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 28062.68571428571,
-                "average_daily_1y": 31720.116981132076,
-                "week_more_than_X_ratio": 0.016042780748663103
+                "average_daily_3m": 6202.149206349206,
+                "average_daily_1y": 6514.38640226629,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -8854,8 +8854,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 12936.499999999998,
-                "average_daily_1y": 7988.977358490566,
+                "average_daily_3m": 2806.7904761904765,
+                "average_daily_1y": 1532.3524079320111,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -8899,8 +8899,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 501.53846153846155,
-                "average_daily_1y": 8260.76923076923,
+                "average_daily_3m": 104.12698412698413,
+                "average_daily_1y": 2083.2079320113316,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -8944,9 +8944,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 176737.14285714287,
-                "average_daily_1y": 95783.73207547171,
-                "week_more_than_X_ratio": 0.33689839572192515
+                "average_daily_3m": 39100.78095238095,
+                "average_daily_1y": 16214.654390934844,
+                "week_more_than_X_ratio": 0.0551
             },
             "fulfilled": false
         },
@@ -8989,9 +8989,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 233320.0,
-                "average_daily_1y": 286892.39999999997,
-                "week_more_than_X_ratio": 0.7433155080213903
+                "average_daily_3m": 51205.24126984127,
+                "average_daily_1y": 61682.58470254958,
+                "week_more_than_X_ratio": 0.1672
             },
             "fulfilled": false
         },
@@ -9034,9 +9034,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 9630880.0,
-                "average_daily_1y": 8262104.471698113,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2126016.796825397,
+                "average_daily_1y": 1727658.2390934844,
+                "week_more_than_X_ratio": 0.961
             },
             "fulfilled": false
         },
@@ -9079,9 +9079,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 348738.9571428572,
-                "average_daily_1y": 253124.8037735849,
-                "week_more_than_X_ratio": 0.32620320855614976
+                "average_daily_3m": 76059.62222222224,
+                "average_daily_1y": 48748.03909348442,
+                "week_more_than_X_ratio": 0.005
             },
             "fulfilled": false
         },
@@ -9124,9 +9124,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 6263385.714285715,
-                "average_daily_1y": 5043341.132075472,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 1367032.215873016,
+                "average_daily_1y": 1035737.7943342775,
+                "week_more_than_X_ratio": 0.7668
             },
             "fulfilled": false
         },
@@ -9169,9 +9169,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 7465977.157142857,
-                "average_daily_1y": 6994838.701886793,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1616506.5428571426,
+                "average_daily_1y": 1469136.4039660057,
+                "week_more_than_X_ratio": 0.952
             },
             "fulfilled": false
         },
@@ -9214,9 +9214,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1595760.314285714,
-                "average_daily_1y": 1949298.9584905666,
-                "week_more_than_X_ratio": 0.6844919786096256
+                "average_daily_3m": 348547.0317460318,
+                "average_daily_1y": 394240.5535410765,
+                "week_more_than_X_ratio": 0.4094
             },
             "fulfilled": false
         },
@@ -9259,9 +9259,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 441641.4285714286,
-                "average_daily_1y": 334211.3169811321,
-                "week_more_than_X_ratio": 0.43315508021390375
+                "average_daily_3m": 95328.86666666667,
+                "average_daily_1y": 67481.4339943343,
+                "week_more_than_X_ratio": 0.004
             },
             "fulfilled": false
         },
@@ -9304,8 +9304,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3008.714285714286,
-                "average_daily_1y": 1883.2943396226417,
+                "average_daily_3m": 664.2698412698413,
+                "average_daily_1y": 378.91501416430594,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -9349,9 +9349,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 41870.0,
-                "average_daily_1y": 33572.07547169811,
-                "week_more_than_X_ratio": 0.47593582887700536
+                "average_daily_3m": 9205.39365079365,
+                "average_daily_1y": 6845.239093484421,
+                "week_more_than_X_ratio": 0.1471
             },
             "fulfilled": false
         },
@@ -9394,8 +9394,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 11762.857142857143,
-                "average_daily_1y": 9508.67924528302,
+                "average_daily_3m": 2581.4380952380952,
+                "average_daily_1y": 1936.569971671388,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -9439,9 +9439,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 773039.6285714286,
-                "average_daily_1y": 746437.8075471697,
-                "week_more_than_X_ratio": 0.7486631016042781
+                "average_daily_3m": 169979.72698412696,
+                "average_daily_1y": 158139.7269121813,
+                "week_more_than_X_ratio": 0.1371
             },
             "fulfilled": false
         },
@@ -9484,9 +9484,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 161571.91428571427,
-                "average_daily_1y": 186026.75471698114,
-                "week_more_than_X_ratio": 0.5614973262032086
+                "average_daily_3m": 35552.67301587301,
+                "average_daily_1y": 42767.88668555241,
+                "week_more_than_X_ratio": 0.0771
             },
             "fulfilled": false
         },
@@ -9529,8 +9529,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 918.5714285714286,
-                "average_daily_1y": 3363.8264150943396,
+                "average_daily_3m": 206.0825396825397,
+                "average_daily_1y": 745.1603399433427,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -9574,11 +9574,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 10373957.142857144,
-                "average_daily_1y": 6571817.649056603,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2278302.0666666664,
+                "average_daily_1y": 1227010.739943343,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Tài nguyên Cơ bản",
         "market_cap": 7385.0,
@@ -9619,9 +9619,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3237264.4,
-                "average_daily_1y": 2261676.003773585,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 707709.6634920635,
+                "average_daily_1y": 420729.2124645892,
+                "week_more_than_X_ratio": 0.8879
             },
             "fulfilled": false
         },
@@ -9664,8 +9664,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 46458.57142857143,
-                "average_daily_1y": 32791.95849056604,
+                "average_daily_3m": 10256.146031746033,
+                "average_daily_1y": 6153.053824362606,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -9709,9 +9709,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 153030.0,
-                "average_daily_1y": 279963.0075471698,
-                "week_more_than_X_ratio": 0.36428571428571427
+                "average_daily_3m": 33920.34920634921,
+                "average_daily_1y": 72022.79263456092,
+                "week_more_than_X_ratio": 0.0271
             },
             "fulfilled": false
         },
@@ -9754,8 +9754,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1640.7000000000003,
-                "average_daily_1y": 3873.716981132076,
+                "average_daily_3m": 353.79365079365084,
+                "average_daily_1y": 813.699716713881,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -9799,9 +9799,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 961445.7142857143,
-                "average_daily_1y": 541569.920754717,
-                "week_more_than_X_ratio": 0.9518716577540107
+                "average_daily_3m": 211904.66984126985,
+                "average_daily_1y": 100338.09178470254,
+                "week_more_than_X_ratio": 0.2452
             },
             "fulfilled": false
         },
@@ -9844,9 +9844,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3019510.0,
-                "average_daily_1y": 2403847.4679245283,
-                "week_more_than_X_ratio": 0.9358288770053476
+                "average_daily_3m": 664639.1587301588,
+                "average_daily_1y": 504274.1671388102,
+                "week_more_than_X_ratio": 0.5115
             },
             "fulfilled": false
         },
@@ -9889,9 +9889,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 25360514.285714287,
-                "average_daily_1y": 13983247.169811321,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 5503190.40952381,
+                "average_daily_1y": 2666524.4934844193,
+                "week_more_than_X_ratio": 0.981
             },
             "fulfilled": false
         },
@@ -9934,9 +9934,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2674.285714285714,
-                "average_daily_1y": 3144.9056603773583,
-                "week_more_than_X_ratio": 0.016042780748663103
+                "average_daily_3m": 590.1587301587301,
+                "average_daily_1y": 683.7110481586402,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -9979,9 +9979,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4868036.8,
-                "average_daily_1y": 3470750.7698113206,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1072831.7492063493,
+                "average_daily_1y": 710787.4351274788,
+                "week_more_than_X_ratio": 0.7638
             },
             "fulfilled": false
         },
@@ -10024,9 +10024,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 579572.8571428572,
-                "average_daily_1y": 333055.09433962265,
-                "week_more_than_X_ratio": 0.8449197860962567
+                "average_daily_3m": 128030.55238095237,
+                "average_daily_1y": 63018.68101983002,
+                "week_more_than_X_ratio": 0.2643
             },
             "fulfilled": false
         },
@@ -10069,8 +10069,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4770.0,
-                "average_daily_1y": 4558.11320754717,
+                "average_daily_3m": 1049.8349206349205,
+                "average_daily_1y": 946.2526912181302,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -10114,9 +10114,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 6248338.571428572,
-                "average_daily_1y": 6021559.622641509,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1349960.504761905,
+                "average_daily_1y": 1195459.1813031163,
+                "week_more_than_X_ratio": 0.8719
             },
             "fulfilled": false
         },
@@ -10159,9 +10159,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 433674.7428571428,
-                "average_daily_1y": 260462.7358490566,
-                "week_more_than_X_ratio": 0.12299465240641712
+                "average_daily_3m": 95636.05396825395,
+                "average_daily_1y": 46654.061756373936,
+                "week_more_than_X_ratio": 0.019
             },
             "fulfilled": false
         },
@@ -10204,9 +10204,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1522028.5714285714,
-                "average_daily_1y": 1274684.1509433961,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 336248.5587301588,
+                "average_daily_1y": 256182.9501416431,
+                "week_more_than_X_ratio": 0.7047
             },
             "fulfilled": false
         },
@@ -10249,9 +10249,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2906875.714285714,
-                "average_daily_1y": 2047138.6566037736,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 642851.1079365079,
+                "average_daily_1y": 402298.06515580736,
+                "week_more_than_X_ratio": 0.8729
             },
             "fulfilled": false
         },
@@ -10294,8 +10294,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2338.9857142857145,
-                "average_daily_1y": 2156.8037735849057,
+                "average_daily_3m": 511.1333333333334,
+                "average_daily_1y": 408.3331444759206,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -10339,9 +10339,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 12688790.0,
-                "average_daily_1y": 9085944.528301887,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 2784936.314285714,
+                "average_daily_1y": 1890265.3762039659,
+                "week_more_than_X_ratio": 0.984
             },
             "fulfilled": false
         },
@@ -10384,9 +10384,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1241800.0,
-                "average_daily_1y": 774188.3018867924,
-                "week_more_than_X_ratio": 0.9625668449197861
+                "average_daily_3m": 274815.3492063493,
+                "average_daily_1y": 159748.51954674217,
+                "week_more_than_X_ratio": 0.2793
             },
             "fulfilled": false
         },
@@ -10429,9 +10429,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 28862.128571428573,
-                "average_daily_1y": 32562.924528301886,
-                "week_more_than_X_ratio": 0.016042780748663103
+                "average_daily_3m": 6251.714285714285,
+                "average_daily_1y": 7038.067988668555,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -10474,8 +10474,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 13894.285714285714,
-                "average_daily_1y": 7159.2981132075465,
+                "average_daily_3m": 3089.7523809523814,
+                "average_daily_1y": 1347.8271954674221,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -10519,8 +10519,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 10069.699999999999,
-                "average_daily_1y": 4478.811320754717,
+                "average_daily_3m": 2231.1682539682542,
+                "average_daily_1y": 827.4073654390935,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -10564,8 +10564,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 12822.857142857143,
-                "average_daily_1y": 19258.867924528302,
+                "average_daily_3m": 2777.171428571429,
+                "average_daily_1y": 4383.326912181303,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -10609,9 +10609,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 100721.42857142857,
-                "average_daily_1y": 66375.96603773585,
-                "week_more_than_X_ratio": 0.3422459893048128
+                "average_daily_3m": 21991.9746031746,
+                "average_daily_1y": 12847.925779036826,
+                "week_more_than_X_ratio": 0.03
             },
             "fulfilled": false
         },
@@ -10654,9 +10654,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 634611.4285714285,
-                "average_daily_1y": 430062.2113207547,
-                "week_more_than_X_ratio": 0.8288770053475936
+                "average_daily_3m": 138833.36825396828,
+                "average_daily_1y": 74449.85099150143,
+                "week_more_than_X_ratio": 0.0911
             },
             "fulfilled": false
         },
@@ -10699,9 +10699,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 13247.142857142857,
-                "average_daily_1y": 6845.66037735849,
-                "week_more_than_X_ratio": 0.0053475935828877
+                "average_daily_3m": 2910.514285714286,
+                "average_daily_1y": 1232.8679886685552,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -10744,8 +10744,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 6906.185714285713,
-                "average_daily_1y": 3339.384905660377,
+                "average_daily_3m": 1533.5746031746032,
+                "average_daily_1y": 671.8045325779036,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -10789,9 +10789,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 58741.42857142857,
-                "average_daily_1y": 37563.3962264151,
-                "week_more_than_X_ratio": 0.25133689839572193
+                "average_daily_3m": 12954.88253968254,
+                "average_daily_1y": 7190.030594900849,
+                "week_more_than_X_ratio": 0.016
             },
             "fulfilled": false
         },
@@ -10834,9 +10834,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1725950.9428571428,
-                "average_daily_1y": 1354400.075471698,
-                "week_more_than_X_ratio": 0.9732620320855615
+                "average_daily_3m": 380695.13333333336,
+                "average_daily_1y": 269004.06628895184,
+                "week_more_than_X_ratio": 0.5275
             },
             "fulfilled": false
         },
@@ -10879,8 +10879,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 901.4285714285714,
-                "average_daily_1y": 385.66037735849056,
+                "average_daily_3m": 202.3873015873016,
+                "average_daily_1y": 74.70934844192634,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -10924,8 +10924,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5701.428571428572,
-                "average_daily_1y": 3375.441509433962,
+                "average_daily_3m": 1271.574603174603,
+                "average_daily_1y": 692.213597733711,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -10969,9 +10969,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 931985.7142857143,
-                "average_daily_1y": 895636.4150943396,
-                "week_more_than_X_ratio": 0.9572192513368984
+                "average_daily_3m": 202922.67619047625,
+                "average_daily_1y": 190549.21416430594,
+                "week_more_than_X_ratio": 0.3173
             },
             "fulfilled": false
         },
@@ -11014,9 +11014,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 10657872.857142856,
-                "average_daily_1y": 7463100.0,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2336527.377777778,
+                "average_daily_1y": 1459192.847592068,
+                "week_more_than_X_ratio": 0.999
             },
             "fulfilled": false
         },
@@ -11059,9 +11059,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 629551.4285714285,
-                "average_daily_1y": 377226.2566037736,
-                "week_more_than_X_ratio": 0.43315508021390375
+                "average_daily_3m": 137362.1015873016,
+                "average_daily_1y": 70162.12634560905,
+                "week_more_than_X_ratio": 0.034
             },
             "fulfilled": false
         },
@@ -11104,9 +11104,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 87798.44285714286,
-                "average_daily_1y": 147887.14716981133,
-                "week_more_than_X_ratio": 0.49732620320855614
+                "average_daily_3m": 18985.441269841267,
+                "average_daily_1y": 29805.14844192634,
+                "week_more_than_X_ratio": 0.024
             },
             "fulfilled": false
         },
@@ -11149,9 +11149,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 37907.142857142855,
-                "average_daily_1y": 31415.094339622643,
-                "week_more_than_X_ratio": 0.18716577540106952
+                "average_daily_3m": 8386.80634920635,
+                "average_daily_1y": 5826.259490084986,
+                "week_more_than_X_ratio": 0.019
             },
             "fulfilled": false
         },
@@ -11194,9 +11194,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 197828.57142857142,
-                "average_daily_1y": 88760.75471698113,
-                "week_more_than_X_ratio": 0.39572192513368987
+                "average_daily_3m": 43789.83174603175,
+                "average_daily_1y": 16259.525212464589,
+                "week_more_than_X_ratio": 0.0501
             },
             "fulfilled": false
         },
@@ -11239,9 +11239,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 7251814.285714285,
-                "average_daily_1y": 4495553.20754717,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1594350.8476190474,
+                "average_daily_1y": 875952.350141643,
+                "week_more_than_X_ratio": 0.999
             },
             "fulfilled": false
         },
@@ -11284,9 +11284,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 175734.2857142857,
-                "average_daily_1y": 365900.25283018866,
-                "week_more_than_X_ratio": 0.6363636363636364
+                "average_daily_3m": 38274.990476190476,
+                "average_daily_1y": 79635.2555240793,
+                "week_more_than_X_ratio": 0.0861
             },
             "fulfilled": false
         },
@@ -11329,9 +11329,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2774044.8285714285,
-                "average_daily_1y": 2007184.7698113206,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 604446.7460317462,
+                "average_daily_1y": 399888.6946175637,
+                "week_more_than_X_ratio": 0.9379
             },
             "fulfilled": false
         },
@@ -11374,9 +11374,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1547300.0,
-                "average_daily_1y": 1077149.433962264,
-                "week_more_than_X_ratio": 0.8181818181818182
+                "average_daily_3m": 339969.8253968253,
+                "average_daily_1y": 210409.96600566572,
+                "week_more_than_X_ratio": 0.2593
             },
             "fulfilled": false
         },
@@ -11419,8 +11419,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3410.0,
-                "average_daily_1y": 4458.075471698113,
+                "average_daily_3m": 737.4984126984127,
+                "average_daily_1y": 768.5694050991501,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -11464,8 +11464,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 12087.228571428572,
-                "average_daily_1y": 11552.486792452828,
+                "average_daily_3m": 2633.711111111111,
+                "average_daily_1y": 2380.8810198300284,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -11509,9 +11509,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 861572.0285714286,
-                "average_daily_1y": 726736.0150943396,
-                "week_more_than_X_ratio": 0.9358288770053476
+                "average_daily_3m": 189513.8158730159,
+                "average_daily_1y": 143775.0300283286,
+                "week_more_than_X_ratio": 0.2372
             },
             "fulfilled": false
         },
@@ -11554,9 +11554,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 107405.71428571429,
-                "average_daily_1y": 91590.58823529411,
-                "week_more_than_X_ratio": 0.14705882352941177
+                "average_daily_3m": 23841.368253968252,
+                "average_daily_1y": 19672.960946745563,
+                "week_more_than_X_ratio": 0.0296
             },
             "fulfilled": false
         },
@@ -11599,8 +11599,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1115.7571428571428,
-                "average_daily_1y": 1063.622641509434,
+                "average_daily_3m": 228.1492063492063,
+                "average_daily_1y": 220.86628895184137,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -11644,9 +11644,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1227829.0999999999,
-                "average_daily_1y": 881699.962264151,
-                "week_more_than_X_ratio": 0.6363636363636364
+                "average_daily_3m": 252671.54285714286,
+                "average_daily_1y": 167218.1104815864,
+                "week_more_than_X_ratio": 0.1542
             },
             "fulfilled": false
         },
@@ -11689,9 +11689,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 425687.14285714284,
-                "average_daily_1y": 434619.62264150946,
-                "week_more_than_X_ratio": 0.9358288770053476
+                "average_daily_3m": 94112.6507936508,
+                "average_daily_1y": 86295.78526912181,
+                "week_more_than_X_ratio": 0.3053
             },
             "fulfilled": false
         },
@@ -11734,9 +11734,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 70656.88571428572,
-                "average_daily_1y": 54743.064150943406,
-                "week_more_than_X_ratio": 0.0481283422459893
+                "average_daily_3m": 15696.241269841274,
+                "average_daily_1y": 11587.793767705381,
+                "week_more_than_X_ratio": 0.004
             },
             "fulfilled": false
         },
@@ -11779,8 +11779,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 15724.985714285713,
-                "average_daily_1y": 14781.920754716983,
+                "average_daily_3m": 3466.019047619048,
+                "average_daily_1y": 2849.3167138810195,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -11824,9 +11824,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 276935.71428571426,
-                "average_daily_1y": 283851.1547169811,
-                "week_more_than_X_ratio": 0.5
+                "average_daily_3m": 59387.18095238096,
+                "average_daily_1y": 56217.16543909348,
+                "week_more_than_X_ratio": 0.0038
             },
             "fulfilled": false
         },
@@ -11869,9 +11869,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1482935.7142857143,
-                "average_daily_1y": 1809261.3094339625,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 321338.9619047618,
+                "average_daily_1y": 356740.4719546742,
+                "week_more_than_X_ratio": 0.8869
             },
             "fulfilled": false
         },
@@ -11914,8 +11914,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3228.5714285714284,
-                "average_daily_1y": 2521.377358490566,
+                "average_daily_3m": 732.5079365079365,
+                "average_daily_1y": 577.5002832861189,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -11959,8 +11959,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4012.8571428571427,
-                "average_daily_1y": 2312.7509433962264,
+                "average_daily_3m": 895.7396825396825,
+                "average_daily_1y": 409.95580736543917,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -12004,9 +12004,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5798752.857142857,
-                "average_daily_1y": 2921028.679245283,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1273609.0698412696,
+                "average_daily_1y": 525899.4844192634,
+                "week_more_than_X_ratio": 0.8719
             },
             "fulfilled": false
         },
@@ -12049,9 +12049,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 403151.4285714286,
-                "average_daily_1y": 308255.6113207547,
-                "week_more_than_X_ratio": 0.25668449197860965
+                "average_daily_3m": 88217.13650793652,
+                "average_daily_1y": 59553.79660056658,
+                "week_more_than_X_ratio": 0.008
             },
             "fulfilled": false
         },
@@ -12094,8 +12094,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1012.8571428571429,
-                "average_daily_1y": 2591.9358490566037,
+                "average_daily_3m": 228.8031746031746,
+                "average_daily_1y": 534.8475920679887,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -12139,9 +12139,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 6664.4285714285725,
-                "average_daily_1y": 5495.988679245283,
-                "week_more_than_X_ratio": 0.016042780748663103
+                "average_daily_3m": 1473.1841269841268,
+                "average_daily_1y": 1119.0985835694053,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -12184,8 +12184,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2359.6714285714284,
-                "average_daily_1y": 3611.535849056604,
+                "average_daily_3m": 493.78730158730156,
+                "average_daily_1y": 675.4045325779038,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -12229,8 +12229,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 30060.0,
-                "average_daily_1y": 28480.41886792453,
+                "average_daily_3m": 6496.295238095237,
+                "average_daily_1y": 5016.643059490084,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -12274,9 +12274,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 375585.71428571426,
-                "average_daily_1y": 211089.43396226416,
-                "week_more_than_X_ratio": 0.1497326203208556
+                "average_daily_3m": 82801.86666666664,
+                "average_daily_1y": 42823.071388101984,
+                "week_more_than_X_ratio": 0.008
             },
             "fulfilled": false
         },
@@ -12319,9 +12319,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 76728.57142857143,
-                "average_daily_1y": 69361.1320754717,
-                "week_more_than_X_ratio": 0.06951871657754011
+                "average_daily_3m": 16897.48253968254,
+                "average_daily_1y": 13654.222096317282,
+                "week_more_than_X_ratio": 0.003
             },
             "fulfilled": false
         },
@@ -12364,9 +12364,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 28864.285714285714,
-                "average_daily_1y": 13701.132075471698,
-                "week_more_than_X_ratio": 0.026737967914438502
+                "average_daily_3m": 6390.92380952381,
+                "average_daily_1y": 2527.616430594901,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -12409,11 +12409,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 66862773.65714286,
-                "average_daily_1y": 34213987.44528302,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 14518619.193650795,
+                "average_daily_1y": 5839119.200566573,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Ngân hàng",
         "market_cap": 65451.0,
@@ -12454,9 +12454,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 372522.85714285716,
-                "average_daily_1y": 364828.6943396226,
-                "week_more_than_X_ratio": 0.9037433155080213
+                "average_daily_3m": 82146.92063492062,
+                "average_daily_1y": 76424.92294617563,
+                "week_more_than_X_ratio": 0.0651
             },
             "fulfilled": false
         },
@@ -12499,8 +12499,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 6808.571428571428,
-                "average_daily_1y": 8806.977358490565,
+                "average_daily_3m": 1333.2031746031746,
+                "average_daily_1y": 1897.4203966005664,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -12544,9 +12544,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 612934.3714285714,
-                "average_daily_1y": 579928.3094339623,
-                "week_more_than_X_ratio": 0.42245989304812837
+                "average_daily_3m": 134061.53333333333,
+                "average_daily_1y": 114552.2997167139,
+                "week_more_than_X_ratio": 0.047
             },
             "fulfilled": false
         },
@@ -12589,9 +12589,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 82124.28571428571,
-                "average_daily_1y": 135051.05283018868,
-                "week_more_than_X_ratio": 0.11764705882352941
+                "average_daily_3m": 17427.146031746026,
+                "average_daily_1y": 30787.592634560904,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -12634,9 +12634,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 27205.885714285712,
-                "average_daily_1y": 27113.969811320756,
-                "week_more_than_X_ratio": 0.11229946524064172
+                "average_daily_3m": 6010.473015873014,
+                "average_daily_1y": 5307.43342776204,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -12679,9 +12679,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 258651.7142857143,
-                "average_daily_1y": 236323.95471698113,
-                "week_more_than_X_ratio": 0.7700534759358288
+                "average_daily_3m": 56435.37142857143,
+                "average_daily_1y": 46591.539943342774,
+                "week_more_than_X_ratio": 0.0981
             },
             "fulfilled": false
         },
@@ -12724,8 +12724,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 745.7142857142857,
-                "average_daily_1y": 1755.3924528301886,
+                "average_daily_3m": 166.5206349206349,
+                "average_daily_1y": 451.2050991501416,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -12769,8 +12769,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 16087.142857142857,
-                "average_daily_1y": 17529.245283018867,
+                "average_daily_3m": 3424.225396825397,
+                "average_daily_1y": 3789.1903682719544,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -12814,9 +12814,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 580701.4285714285,
-                "average_daily_1y": 840283.3962264151,
-                "week_more_than_X_ratio": 0.7647058823529411
+                "average_daily_3m": 119792.56825396825,
+                "average_daily_1y": 170962.4413597734,
+                "week_more_than_X_ratio": 0.1952
             },
             "fulfilled": false
         },
@@ -12859,8 +12859,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2987.1428571428573,
-                "average_daily_1y": 1503.1962264150943,
+                "average_daily_3m": 657.1714285714284,
+                "average_daily_1y": 268.5835694050991,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -12904,8 +12904,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1034.4285714285713,
-                "average_daily_1y": 1171.3811320754717,
+                "average_daily_3m": 224.76190476190476,
+                "average_daily_1y": 242.90368271954674,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -12949,8 +12949,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 12041.42857142857,
-                "average_daily_1y": 14742.641509433963,
+                "average_daily_3m": 2571.3206349206353,
+                "average_daily_1y": 3585.921246458923,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -12994,9 +12994,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2047208.5714285714,
-                "average_daily_1y": 2045808.0981132074,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 443880.3619047619,
+                "average_daily_1y": 431430.2266288952,
+                "week_more_than_X_ratio": 0.8579
             },
             "fulfilled": false
         },
@@ -13039,8 +13039,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 377.14285714285717,
-                "average_daily_1y": 309.0037735849057,
+                "average_daily_3m": 86.37460317460317,
+                "average_daily_1y": 56.815864022662886,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -13084,11 +13084,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 29807777.14285714,
-                "average_daily_1y": 19581634.041509435,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 6557963.025396826,
+                "average_daily_1y": 3703835.518980169,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Dịch vụ tài chính",
         "market_cap": 66846.0,
@@ -13129,9 +13129,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 371127.14285714284,
-                "average_daily_1y": 373862.641509434,
-                "week_more_than_X_ratio": 0.44919786096256686
+                "average_daily_3m": 81534.51428571428,
+                "average_daily_1y": 70492.87422096317,
+                "week_more_than_X_ratio": 0.0721
             },
             "fulfilled": false
         },
@@ -13174,9 +13174,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 10324860.0,
-                "average_daily_1y": 10961127.924528303,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2251905.926984127,
+                "average_daily_1y": 2307949.873654391,
+                "week_more_than_X_ratio": 0.999
             },
             "fulfilled": false
         },
@@ -13219,9 +13219,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 301.42857142857144,
-                "average_daily_1y": 302.2641509433962,
-                "week_more_than_X_ratio": 0.0053475935828877
+                "average_daily_3m": 67.45396825396824,
+                "average_daily_1y": 62.544475920679886,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -13264,9 +13264,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 53324.28571428572,
-                "average_daily_1y": 59248.67924528302,
-                "week_more_than_X_ratio": 0.0374331550802139
+                "average_daily_3m": 11730.742857142855,
+                "average_daily_1y": 11834.016997167138,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -13309,8 +13309,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3238.5714285714284,
-                "average_daily_1y": 2236.3849056603776,
+                "average_daily_3m": 713.6253968253966,
+                "average_daily_1y": 452.7869688385269,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -13354,9 +13354,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 73434.28571428571,
-                "average_daily_1y": 53623.3962264151,
-                "week_more_than_X_ratio": 0.06417112299465241
+                "average_daily_3m": 15933.974603174602,
+                "average_daily_1y": 11707.498016997166,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -13399,8 +13399,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 392.3076923076923,
-                "average_daily_1y": 173.46153846153845,
+                "average_daily_3m": 81.88571428571427,
+                "average_daily_1y": 27.698016997167144,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -13444,8 +13444,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 7057.142857142857,
-                "average_daily_1y": 10052.690566037738,
+                "average_daily_3m": 1558.0,
+                "average_daily_1y": 2320.0362606232297,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -13489,9 +13489,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2578895.714285714,
-                "average_daily_1y": 1901114.716981132,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 565563.6984126985,
+                "average_daily_1y": 376752.6640226629,
+                "week_more_than_X_ratio": 0.6096
             },
             "fulfilled": false
         },
@@ -13534,8 +13534,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 8172.857142857143,
-                "average_daily_1y": 8384.433962264153,
+                "average_daily_3m": 1729.8730158730161,
+                "average_daily_1y": 1554.324645892351,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -13579,8 +13579,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 8212.742857142857,
-                "average_daily_1y": 3932.4603773584904,
+                "average_daily_3m": 1826.6761904761904,
+                "average_daily_1y": 767.8124645892352,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -13624,11 +13624,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 18659674.285714287,
-                "average_daily_1y": 14926049.433962265,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 4055384.4,
+                "average_daily_1y": 3035524.7847025497,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Ngân hàng",
         "market_cap": 243737.0,
@@ -13645,7 +13645,7 @@
         },
         "pe": {
             "value": {
-                "2024": 13.0,
+                "2024": 13.4,
                 "2023": 16.6,
                 "2022": 4.7
             },
@@ -13669,9 +13669,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2197444.285714286,
-                "average_daily_1y": 1384391.6981132075,
-                "week_more_than_X_ratio": 0.9732620320855615
+                "average_daily_3m": 481753.1682539683,
+                "average_daily_1y": 262713.7750708215,
+                "week_more_than_X_ratio": 0.4074
             },
             "fulfilled": false
         },
@@ -13714,9 +13714,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 8213700.0,
-                "average_daily_1y": 6789436.603773585,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1781079.466666667,
+                "average_daily_1y": 1381867.7036827197,
+                "week_more_than_X_ratio": 0.999
             },
             "fulfilled": false
         },
@@ -13759,9 +13759,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 229850.0,
-                "average_daily_1y": 163299.62264150943,
-                "week_more_than_X_ratio": 0.6256684491978609
+                "average_daily_3m": 50607.42539682538,
+                "average_daily_1y": 30875.375637393772,
+                "week_more_than_X_ratio": 0.0791
             },
             "fulfilled": false
         },
@@ -13804,9 +13804,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 80684.59999999999,
-                "average_daily_1y": 96037.75471698113,
-                "week_more_than_X_ratio": 0.058823529411764705
+                "average_daily_3m": 17144.438095238096,
+                "average_daily_1y": 15728.985835694051,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -13849,9 +13849,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2111880.5857142857,
-                "average_daily_1y": 1876830.7886792454,
-                "week_more_than_X_ratio": 0.9786096256684492
+                "average_daily_3m": 462123.93650793645,
+                "average_daily_1y": 393430.138243626,
+                "week_more_than_X_ratio": 0.4955
             },
             "fulfilled": false
         },
@@ -13894,9 +13894,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 295195.71428571426,
-                "average_daily_1y": 258490.04150943394,
-                "week_more_than_X_ratio": 0.31016042780748665
+                "average_daily_3m": 62348.269841269845,
+                "average_daily_1y": 53644.41473087818,
+                "week_more_than_X_ratio": 0.008
             },
             "fulfilled": false
         },
@@ -13939,8 +13939,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3464.285714285714,
-                "average_daily_1y": 2221.132075471698,
+                "average_daily_3m": 729.1555555555556,
+                "average_daily_1y": 451.6878186968839,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -13984,8 +13984,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4604.285714285715,
-                "average_daily_1y": 5682.91320754717,
+                "average_daily_3m": 984.6539682539681,
+                "average_daily_1y": 1110.6198300283288,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -14029,9 +14029,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 836508.5714285715,
-                "average_daily_1y": 855476.2264150943,
-                "week_more_than_X_ratio": 0.8663101604278075
+                "average_daily_3m": 179880.4888888889,
+                "average_daily_1y": 169432.93541076488,
+                "week_more_than_X_ratio": 0.2843
             },
             "fulfilled": false
         },
@@ -14074,9 +14074,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 79854.28571428571,
-                "average_daily_1y": 63694.82264150943,
-                "week_more_than_X_ratio": 0.28342245989304815
+                "average_daily_3m": 17410.438095238096,
+                "average_daily_1y": 12513.524645892348,
+                "week_more_than_X_ratio": 0.016
             },
             "fulfilled": false
         },
@@ -14119,9 +14119,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 574260.0,
-                "average_daily_1y": 337881.5094339623,
-                "week_more_than_X_ratio": 0.49732620320855614
+                "average_daily_3m": 120237.55873015872,
+                "average_daily_1y": 61310.38356940511,
+                "week_more_than_X_ratio": 0.0791
             },
             "fulfilled": false
         },
@@ -14164,9 +14164,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 11097.142857142857,
-                "average_daily_1y": 19858.037735849055,
-                "week_more_than_X_ratio": 0.1711229946524064
+                "average_daily_3m": 2385.5206349206346,
+                "average_daily_1y": 4051.7739376770537,
+                "week_more_than_X_ratio": 0.011
             },
             "fulfilled": false
         },
@@ -14209,9 +14209,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 108752.85714285714,
-                "average_daily_1y": 110314.92075471698,
-                "week_more_than_X_ratio": 0.06417112299465241
+                "average_daily_3m": 23669.542857142857,
+                "average_daily_1y": 22172.704249291783,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -14254,8 +14254,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1208.0571428571427,
-                "average_daily_1y": 599.9132075471698,
+                "average_daily_3m": 268.6031746031746,
+                "average_daily_1y": 115.55977337110481,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -14299,9 +14299,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 224601.42857142858,
-                "average_daily_1y": 116252.83018867925,
-                "week_more_than_X_ratio": 0.3689839572192513
+                "average_daily_3m": 49841.52063492065,
+                "average_daily_1y": 19831.473087818697,
+                "week_more_than_X_ratio": 0.009
             },
             "fulfilled": false
         },
@@ -14344,8 +14344,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 59251.02857142857,
-                "average_daily_1y": 45636.535849056614,
+                "average_daily_3m": 12743.593650793653,
+                "average_daily_1y": 8078.981303116148,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -14389,9 +14389,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 114191.42857142857,
-                "average_daily_1y": 162992.37358490567,
-                "week_more_than_X_ratio": 0.40106951871657753
+                "average_daily_3m": 25070.082539682542,
+                "average_daily_1y": 32387.351274787536,
+                "week_more_than_X_ratio": 0.036
             },
             "fulfilled": false
         },
@@ -14434,8 +14434,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1226.3666666666666,
-                "average_daily_1y": 1301.0039215686277,
+                "average_daily_3m": 221.76507936507934,
+                "average_daily_1y": 302.271954674221,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -14479,9 +14479,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 318591.4285714286,
-                "average_daily_1y": 221824.90566037735,
-                "week_more_than_X_ratio": 0.45454545454545453
+                "average_daily_3m": 70305.10476190476,
+                "average_daily_1y": 45964.07082152974,
+                "week_more_than_X_ratio": 0.0521
             },
             "fulfilled": false
         },
@@ -14524,9 +14524,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 336836.4142857143,
-                "average_daily_1y": 291078.0716981132,
-                "week_more_than_X_ratio": 0.29411764705882354
+                "average_daily_3m": 73721.46031746031,
+                "average_daily_1y": 60737.10538243626,
+                "week_more_than_X_ratio": 0.008
             },
             "fulfilled": false
         },
@@ -14569,9 +14569,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 493095.71428571426,
-                "average_daily_1y": 538313.962264151,
-                "week_more_than_X_ratio": 0.93048128342246
+                "average_daily_3m": 106336.34603174601,
+                "average_daily_1y": 102028.94730878186,
+                "week_more_than_X_ratio": 0.2513
             },
             "fulfilled": false
         },
@@ -14614,8 +14614,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3199.014285714285,
-                "average_daily_1y": 2278.422641509434,
+                "average_daily_3m": 703.2761904761904,
+                "average_daily_1y": 451.85779036827194,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -14659,8 +14659,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2228.5714285714284,
-                "average_daily_1y": 2237.166037735849,
+                "average_daily_3m": 491.64126984126983,
+                "average_daily_1y": 475.06118980169975,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -14704,8 +14704,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 26450.0,
-                "average_daily_1y": 36144.15094339623,
+                "average_daily_3m": 5601.441269841272,
+                "average_daily_1y": 7391.075354107647,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -14749,8 +14749,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 15935.314285714285,
-                "average_daily_1y": 6041.505660377358,
+                "average_daily_3m": 3536.2317460317468,
+                "average_daily_1y": 1112.840793201133,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -14794,8 +14794,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2071.4285714285716,
-                "average_daily_1y": 1229.6000000000001,
+                "average_daily_3m": 447.5809523809524,
+                "average_daily_1y": 227.9161473087819,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -14839,9 +14839,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 243867.14285714287,
-                "average_daily_1y": 508169.92830188683,
-                "week_more_than_X_ratio": 0.679144385026738
+                "average_daily_3m": 53173.615873015864,
+                "average_daily_1y": 107889.21246458923,
+                "week_more_than_X_ratio": 0.0841
             },
             "fulfilled": false
         },
@@ -14884,9 +14884,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 171825.7142857143,
-                "average_daily_1y": 108190.94339622642,
-                "week_more_than_X_ratio": 0.48128342245989303
+                "average_daily_3m": 37862.234920634924,
+                "average_daily_1y": 21195.14390934844,
+                "week_more_than_X_ratio": 0.0611
             },
             "fulfilled": false
         },
@@ -14929,9 +14929,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 136410.0,
-                "average_daily_1y": 172008.30188679244,
-                "week_more_than_X_ratio": 0.5775401069518716
+                "average_daily_3m": 30206.041269841273,
+                "average_daily_1y": 33843.887252124645,
+                "week_more_than_X_ratio": 0.0581
             },
             "fulfilled": false
         },
@@ -14974,9 +14974,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 14779229.771428572,
-                "average_daily_1y": 13928909.875471698,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 3236422.596825397,
+                "average_daily_1y": 2884371.5461756373,
+                "week_more_than_X_ratio": 0.979
             },
             "fulfilled": false
         },
@@ -15019,9 +15019,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5001.428571428572,
-                "average_daily_1y": 6483.018867924528,
-                "week_more_than_X_ratio": 0.0106951871657754
+                "average_daily_3m": 1098.8126984126982,
+                "average_daily_1y": 1236.959773371105,
+                "week_more_than_X_ratio": 0.002
             },
             "fulfilled": false
         },
@@ -15064,8 +15064,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 3937.8571428571427,
-                "average_daily_1y": 3102.241509433962,
+                "average_daily_3m": 867.1968253968251,
+                "average_daily_1y": 582.5881019830027,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -15109,9 +15109,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 178676.87142857144,
-                "average_daily_1y": 148132.50188679245,
-                "week_more_than_X_ratio": 0.0748663101604278
+                "average_daily_3m": 39253.57777777778,
+                "average_daily_1y": 26771.9269121813,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -15154,9 +15154,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 783848.5714285715,
-                "average_daily_1y": 513448.30188679247,
-                "week_more_than_X_ratio": 0.9358288770053476
+                "average_daily_3m": 172128.65079365077,
+                "average_daily_1y": 95197.20566572239,
+                "week_more_than_X_ratio": 0.4074
             },
             "fulfilled": false
         },
@@ -15199,9 +15199,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 714567.1428571428,
-                "average_daily_1y": 819906.037735849,
-                "week_more_than_X_ratio": 0.946524064171123
+                "average_daily_3m": 155457.03174603172,
+                "average_daily_1y": 179094.05722379603,
+                "week_more_than_X_ratio": 0.1952
             },
             "fulfilled": false
         },
@@ -15244,8 +15244,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2.2222222222222223,
-                "average_daily_1y": 229.58333333333334,
+                "average_daily_3m": 0.5111111111111111,
+                "average_daily_1y": 62.61926345609066,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -15289,9 +15289,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1217178.5714285714,
-                "average_daily_1y": 944512.4528301887,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 266733.8761904762,
+                "average_daily_1y": 187232.9937677054,
+                "week_more_than_X_ratio": 0.6517
             },
             "fulfilled": false
         },
@@ -15334,9 +15334,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 736315.7142857143,
-                "average_daily_1y": 439172.41509433964,
-                "week_more_than_X_ratio": 0.5775401069518716
+                "average_daily_3m": 162887.99682539684,
+                "average_daily_1y": 81683.96827195468,
+                "week_more_than_X_ratio": 0.0641
             },
             "fulfilled": false
         },
@@ -15379,9 +15379,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 161747.14285714287,
-                "average_daily_1y": 133664.90566037735,
-                "week_more_than_X_ratio": 0.6577540106951871
+                "average_daily_3m": 35306.126984126975,
+                "average_daily_1y": 28103.11444759207,
+                "week_more_than_X_ratio": 0.1011
             },
             "fulfilled": false
         },
@@ -15424,9 +15424,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 121648.57142857143,
-                "average_daily_1y": 141041.1320754717,
-                "week_more_than_X_ratio": 0.15508021390374332
+                "average_daily_3m": 26877.66666666667,
+                "average_daily_1y": 31248.484419263455,
+                "week_more_than_X_ratio": 0.019
             },
             "fulfilled": false
         },
@@ -15469,8 +15469,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2913.1714285714293,
-                "average_daily_1y": 4930.377358490566,
+                "average_daily_3m": 640.2698412698413,
+                "average_daily_1y": 991.0917847025495,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -15514,8 +15514,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 18257.7,
-                "average_daily_1y": 14755.611320754717,
+                "average_daily_3m": 3724.857142857143,
+                "average_daily_1y": 2635.2294617563743,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -15559,8 +15559,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4898.571428571428,
-                "average_daily_1y": 4754.7169811320755,
+                "average_daily_3m": 1038.104761904762,
+                "average_daily_1y": 832.369971671388,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -15604,9 +15604,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1319424.2857142857,
-                "average_daily_1y": 717642.2641509434,
-                "week_more_than_X_ratio": 0.6898395721925134
+                "average_daily_3m": 326990.0763636363,
+                "average_daily_1y": 124122.15362318841,
+                "week_more_than_X_ratio": 0.1411
             },
             "fulfilled": false
         },
@@ -15649,8 +15649,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5336.714285714285,
-                "average_daily_1y": 3775.9094339622643,
+                "average_daily_3m": 1087.8888888888891,
+                "average_daily_1y": 635.1053824362607,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -15694,8 +15694,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 24172.85714285714,
-                "average_daily_1y": 20341.132075471698,
+                "average_daily_3m": 5354.739682539682,
+                "average_daily_1y": 4362.456657223796,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -15739,9 +15739,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4984061.428571428,
-                "average_daily_1y": 2657787.7811320755,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 1096443.6285714288,
+                "average_daily_1y": 480192.7235127478,
+                "week_more_than_X_ratio": 0.6737
             },
             "fulfilled": false
         },
@@ -15784,8 +15784,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1072.857142857143,
-                "average_daily_1y": 1125.7056603773585,
+                "average_daily_3m": 235.77777777777774,
+                "average_daily_1y": 245.37053824362602,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -15829,9 +15829,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 11521868.842857143,
-                "average_daily_1y": 7193129.683018868,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2534600.5682539674,
+                "average_daily_1y": 1288554.6113314447,
+                "week_more_than_X_ratio": 0.999
             },
             "fulfilled": false
         },
@@ -15874,9 +15874,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 9594307.142857144,
-                "average_daily_1y": 7340330.0490566045,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 2096879.7587301587,
+                "average_daily_1y": 1447950.5796033996,
+                "week_more_than_X_ratio": 0.998
             },
             "fulfilled": false
         },
@@ -15919,8 +15919,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4364.285714285715,
-                "average_daily_1y": 4663.03396226415,
+                "average_daily_3m": 939.7682539682539,
+                "average_daily_1y": 1037.8209631728046,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -15964,9 +15964,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2486134.542857143,
-                "average_daily_1y": 1762306.3018867925,
-                "week_more_than_X_ratio": 0.893048128342246
+                "average_daily_3m": 547068.4285714285,
+                "average_daily_1y": 357833.18753541075,
+                "week_more_than_X_ratio": 0.4825
             },
             "fulfilled": false
         },
@@ -16009,9 +16009,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 39140.12857142858,
-                "average_daily_1y": 34677.69056603773,
-                "week_more_than_X_ratio": 0.0053475935828877
+                "average_daily_3m": 8594.16507936508,
+                "average_daily_1y": 7029.685552407932,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -16054,9 +16054,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1038752.8571428572,
-                "average_daily_1y": 1077472.9433962265,
-                "week_more_than_X_ratio": 0.9732620320855615
+                "average_daily_3m": 228723.00634920632,
+                "average_daily_1y": 228452.53994334277,
+                "week_more_than_X_ratio": 0.4715
             },
             "fulfilled": false
         },
@@ -16099,9 +16099,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1430114.2857142857,
-                "average_daily_1y": 891798.0150943397,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 309677.7174603174,
+                "average_daily_1y": 169589.6946175637,
+                "week_more_than_X_ratio": 0.3083
             },
             "fulfilled": false
         },
@@ -16144,9 +16144,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5897084.285714285,
-                "average_daily_1y": 8938829.433962265,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1273291.4317460314,
+                "average_daily_1y": 2052090.8453257794,
+                "week_more_than_X_ratio": 0.983
             },
             "fulfilled": false
         },
@@ -16189,9 +16189,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 7809748.0,
-                "average_daily_1y": 8090519.090566038,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1722763.5396825392,
+                "average_daily_1y": 1717554.3620396599,
+                "week_more_than_X_ratio": 0.962
             },
             "fulfilled": false
         },
@@ -16234,9 +16234,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4464124.285714285,
-                "average_daily_1y": 3698723.7735849055,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 929439.5746031748,
+                "average_daily_1y": 688498.3920679886,
+                "week_more_than_X_ratio": 0.9369
             },
             "fulfilled": false
         },
@@ -16279,9 +16279,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 8814.285714285714,
-                "average_daily_1y": 9567.08679245283,
-                "week_more_than_X_ratio": 0.0053475935828877
+                "average_daily_3m": 1940.184126984127,
+                "average_daily_1y": 1845.9824362606234,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -16324,9 +16324,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 263677.95714285714,
-                "average_daily_1y": 332950.29811320757,
-                "week_more_than_X_ratio": 0.6898395721925134
+                "average_daily_3m": 57083.5492063492,
+                "average_daily_1y": 64036.00056657225,
+                "week_more_than_X_ratio": 0.0891
             },
             "fulfilled": false
         },
@@ -16369,11 +16369,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 44997306.0,
-                "average_daily_1y": 30613053.675471697,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 9886258.231746035,
+                "average_daily_1y": 5703054.16713881,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Dịch vụ tài chính",
         "market_cap": 39205.0,
@@ -16414,9 +16414,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1000795.7142857143,
-                "average_daily_1y": 742239.6226415094,
-                "week_more_than_X_ratio": 0.9358288770053476
+                "average_daily_3m": 219156.30476190476,
+                "average_daily_1y": 154386.33824362606,
+                "week_more_than_X_ratio": 0.1301
             },
             "fulfilled": false
         },
@@ -16459,8 +16459,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5644.285714285715,
-                "average_daily_1y": 6532.962264150943,
+                "average_daily_3m": 1228.1047619047622,
+                "average_daily_1y": 1500.4504249291786,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -16504,11 +16504,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 25251639.57142857,
-                "average_daily_1y": 16011567.475471696,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 5561586.460317459,
+                "average_daily_1y": 2975978.7864022665,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Dịch vụ tài chính",
         "market_cap": 33947.0,
@@ -16549,9 +16549,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 585510.0,
-                "average_daily_1y": 235370.18867924527,
-                "week_more_than_X_ratio": 0.6898395721925134
+                "average_daily_3m": 128889.11746031746,
+                "average_daily_1y": 40061.80623229461,
+                "week_more_than_X_ratio": 0.0651
             },
             "fulfilled": false
         },
@@ -16594,9 +16594,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 5347.142857142857,
-                "average_daily_1y": 7801.88679245283,
-                "week_more_than_X_ratio": 0.0374331550802139
+                "average_daily_3m": 1176.3333333333333,
+                "average_daily_1y": 1851.140509915014,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -16639,8 +16639,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 14296.685714285715,
-                "average_daily_1y": 17174.169811320753,
+                "average_daily_3m": 3045.4476190476194,
+                "average_daily_1y": 3346.6011331444756,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -16684,9 +16684,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4300961.514285714,
-                "average_daily_1y": 3741495.2490566038,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 940255.5650793652,
+                "average_daily_1y": 736740.9444759208,
+                "week_more_than_X_ratio": 0.963
             },
             "fulfilled": false
         },
@@ -16729,9 +16729,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 38609.84285714286,
-                "average_daily_1y": 27951.381132075472,
-                "week_more_than_X_ratio": 0.03208556149732621
+                "average_daily_3m": 7973.961904761904,
+                "average_daily_1y": 5871.991501416431,
+                "week_more_than_X_ratio": 0.003
             },
             "fulfilled": false
         },
@@ -16774,9 +16774,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2484391.4285714286,
-                "average_daily_1y": 2281280.0,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 537704.1873015874,
+                "average_daily_1y": 474079.5711048159,
+                "week_more_than_X_ratio": 0.7858
             },
             "fulfilled": false
         },
@@ -16819,11 +16819,11 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 32591047.8,
-                "average_daily_1y": 21726335.543396227,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 7167166.317460317,
+                "average_daily_1y": 4403991.110481586,
+                "week_more_than_X_ratio": 1.0
             },
-            "fulfilled": false
+            "fulfilled": true
         },
         "industry": "Ngân hàng",
         "market_cap": 200332.0,
@@ -16864,9 +16864,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 12212.399999999998,
-                "average_daily_1y": 11017.230188679245,
-                "week_more_than_X_ratio": 0.0053475935828877
+                "average_daily_3m": 2263.095238095238,
+                "average_daily_1y": 2149.0719546742207,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -16909,9 +16909,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 869748.5714285715,
-                "average_daily_1y": 492219.24528301886,
-                "week_more_than_X_ratio": 0.9572192513368984
+                "average_daily_3m": 191721.75238095236,
+                "average_daily_1y": 95881.63796033995,
+                "week_more_than_X_ratio": 0.3764
             },
             "fulfilled": false
         },
@@ -16954,9 +16954,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 228011.42857142858,
-                "average_daily_1y": 189639.920754717,
-                "week_more_than_X_ratio": 0.5775401069518716
+                "average_daily_3m": 50460.758730158734,
+                "average_daily_1y": 39505.77280453258,
+                "week_more_than_X_ratio": 0.046
             },
             "fulfilled": false
         },
@@ -16999,9 +16999,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 2096640.0,
-                "average_daily_1y": 1595849.6528301886,
-                "week_more_than_X_ratio": 0.983957219251337
+                "average_daily_3m": 453600.00634920644,
+                "average_daily_1y": 315185.81473087816,
+                "week_more_than_X_ratio": 0.5956
             },
             "fulfilled": false
         },
@@ -17044,9 +17044,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 279333.3333333333,
-                "average_daily_1y": 279333.3333333333,
-                "week_more_than_X_ratio": 0.5
+                "average_daily_3m": 58950.091228070174,
+                "average_daily_1y": 58950.091228070174,
+                "week_more_than_X_ratio": 0.0526
             },
             "fulfilled": false
         },
@@ -17089,8 +17089,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 1591.7571428571428,
-                "average_daily_1y": 1389.3358490566038,
+                "average_daily_3m": 345.58412698412695,
+                "average_daily_1y": 270.0815864022663,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -17134,9 +17134,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 27347.14285714286,
-                "average_daily_1y": 41311.32075471698,
-                "week_more_than_X_ratio": 0.0962566844919786
+                "average_daily_3m": 5991.1873015873025,
+                "average_daily_1y": 8743.862322946175,
+                "week_more_than_X_ratio": 0.002
             },
             "fulfilled": false
         },
@@ -17179,9 +17179,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 7508222.857142857,
-                "average_daily_1y": 8339666.79245283,
-                "week_more_than_X_ratio": 0.9893048128342246
+                "average_daily_3m": 1562260.5460317458,
+                "average_daily_1y": 1682647.3762039659,
+                "week_more_than_X_ratio": 0.967
             },
             "fulfilled": false
         },
@@ -17224,9 +17224,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 12124189.357142856,
-                "average_daily_1y": 5215630.490566038,
-                "week_more_than_X_ratio": 0.8877005347593583
+                "average_daily_3m": 2637952.219047619,
+                "average_daily_1y": 948376.4277620397,
+                "week_more_than_X_ratio": 0.6106
             },
             "fulfilled": false
         },
@@ -17269,9 +17269,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 43542.21428571428,
-                "average_daily_1y": 22034.124528301887,
-                "week_more_than_X_ratio": 0.09090909090909091
+                "average_daily_3m": 9675.523809523811,
+                "average_daily_1y": 4289.3053824362605,
+                "week_more_than_X_ratio": 0.001
             },
             "fulfilled": false
         },
@@ -17314,8 +17314,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4845.771428571429,
-                "average_daily_1y": 2645.2867924528305,
+                "average_daily_3m": 1052.8380952380953,
+                "average_daily_1y": 529.1943342776204,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -17359,8 +17359,8 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4290.0,
-                "average_daily_1y": 4207.018867924528,
+                "average_daily_3m": 952.3714285714285,
+                "average_daily_1y": 971.0657223796032,
                 "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
@@ -17404,9 +17404,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 462603.4857142857,
-                "average_daily_1y": 530490.4452830189,
-                "week_more_than_X_ratio": 0.7593582887700535
+                "average_daily_3m": 100872.00317460315,
+                "average_daily_1y": 104009.75807365439,
+                "week_more_than_X_ratio": 0.1191
             },
             "fulfilled": false
         },
@@ -17449,9 +17449,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 796548.5714285715,
-                "average_daily_1y": 808338.7509433961,
-                "week_more_than_X_ratio": 0.8342245989304813
+                "average_daily_3m": 171658.00952380948,
+                "average_daily_1y": 178096.059490085,
+                "week_more_than_X_ratio": 0.2793
             },
             "fulfilled": false
         },
@@ -17494,9 +17494,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 17588.571428571428,
-                "average_daily_1y": 16162.283018867925,
-                "week_more_than_X_ratio": 0.0053475935828877
+                "average_daily_3m": 3796.6444444444437,
+                "average_daily_1y": 2464.1371104815867,
+                "week_more_than_X_ratio": 0.0
             },
             "fulfilled": false
         },
@@ -17539,9 +17539,9 @@
         },
         "volume": {
             "value": {
-                "average_daily_3m": 4107354.285714286,
-                "average_daily_1y": 2919240.4754716977,
-                "week_more_than_X_ratio": 0.6577540106951871
+                "average_daily_3m": 886914.5873015873,
+                "average_daily_1y": 568987.9915014164,
+                "week_more_than_X_ratio": 0.3874
             },
             "fulfilled": false
         },
