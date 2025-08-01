@@ -1,0 +1,245 @@
+<!-- templates/index.html -->
+{% extends "base.html" %}
+
+{% block title %}Stock Analysis Dashboard{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-12">
+        <div class="card border-0 shadow-sm">
+            <div class="card-body">
+                <h1 class="card-title mb-3">
+                    <i class="fas fa-chart-bar text-primary me-2"></i>
+                    Stock Analysis Dashboard
+                </h1>
+                <p class="card-text text-muted">
+                    Showing {{ pagination.start_idx }}-{{ pagination.end_idx }} of {{ pagination.total_stocks }} stocks
+                    <span class="ms-3">
+                        <i class="fas fa-info-circle me-1"></i>
+                        Sorted by {% if sort_info.current_sort == 'criteria' %}criteria count{% elif sort_info.current_sort == 'symbol' %}symbol{% elif sort_info.current_sort == 'name' %}company name{% elif sort_info.current_sort == 'industry' %}industry{% elif sort_info.current_sort == 'market_cap' %}market cap{% endif %} ({{ 'asc' if sort_info.current_order == 'asc' else 'desc' }}ending)
+                    </span>
+                </p>
+                <div class="d-flex align-items-center gap-3">
+                    <div class="d-flex align-items-center">
+                        <label for="per_page" class="form-label me-2 mb-0">Show:</label>
+                        <select id="per_page" class="form-select form-select-sm" style="width: auto;" onchange="changePerPage(this.value)">
+                            <option value="25" {% if pagination.per_page == 25 %}selected{% endif %}>25</option>
+                            <option value="50" {% if pagination.per_page == 50 %}selected{% endif %}>50</option>
+                            <option value="100" {% if pagination.per_page == 100 %}selected{% endif %}>100</option>
+                        </select>
+                        <span class="ms-2 text-muted">per page</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-12">
+        <div class="card border-0 shadow-sm">
+            <div class="card-body">
+                <h6 class="card-title mb-3">
+                    <i class="fas fa-key me-2"></i>
+                    Criteria Legend
+                </h6>
+                <div class="d-flex flex-wrap gap-2">
+                    <span class="badge bg-success"><i class="fas fa-coins me-1"></i>Dividend</span>
+                    <span class="badge bg-info"><i class="fas fa-chart-line me-1"></i>P/E Ratio</span>
+                    <span class="badge bg-warning text-dark"><i class="fas fa-percentage me-1"></i>ROE</span>
+                    <span class="badge bg-primary"><i class="fas fa-balance-scale me-1"></i>Leverage</span>
+                    <span class="badge bg-secondary"><i class="fas fa-chart-bar me-1"></i>Volume</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card border-0 shadow-sm">
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover align-middle">
+                        <thead class="table-light">
+                            <tr>
+                                <th scope="col" style="width: 10%;">
+                                    <a href="{{ url_for('index', sort='symbol', order=sort_info.opposite_order if sort_info.current_sort == 'symbol' else 'asc', per_page=pagination.per_page) }}" class="text-decoration-none text-dark">
+                                        <i class="fas fa-tag me-1"></i>Symbol
+                                        {% if sort_info.current_sort == 'symbol' %}
+                                            <i class="fas fa-sort-{{ 'up' if sort_info.current_order == 'asc' else 'down' }} ms-1"></i>
+                                        {% else %}
+                                            <i class="fas fa-sort ms-1 text-muted"></i>
+                                        {% endif %}
+                                    </a>
+                                </th>
+                                <th scope="col" style="width: 25%;">
+                                    <a href="{{ url_for('index', sort='name', order=sort_info.opposite_order if sort_info.current_sort == 'name' else 'asc', per_page=pagination.per_page) }}" class="text-decoration-none text-dark">
+                                        <i class="fas fa-building me-1"></i>Company Name
+                                        {% if sort_info.current_sort == 'name' %}
+                                            <i class="fas fa-sort-{{ 'up' if sort_info.current_order == 'asc' else 'down' }} ms-1"></i>
+                                        {% else %}
+                                            <i class="fas fa-sort ms-1 text-muted"></i>
+                                        {% endif %}
+                                    </a>
+                                </th>
+                                <th scope="col" style="width: 15%;">
+                                    <a href="{{ url_for('index', sort='industry', order=sort_info.opposite_order if sort_info.current_sort == 'industry' else 'asc', per_page=pagination.per_page) }}" class="text-decoration-none text-dark">
+                                        <i class="fas fa-industry me-1"></i>Industry
+                                        {% if sort_info.current_sort == 'industry' %}
+                                            <i class="fas fa-sort-{{ 'up' if sort_info.current_order == 'asc' else 'down' }} ms-1"></i>
+                                        {% else %}
+                                            <i class="fas fa-sort ms-1 text-muted"></i>
+                                        {% endif %}
+                                    </a>
+                                </th>
+                                <th scope="col" style="width: 10%;" class="text-end">
+                                    <a href="{{ url_for('index', sort='market_cap', order=sort_info.opposite_order if sort_info.current_sort == 'market_cap' else 'desc', per_page=pagination.per_page) }}" class="text-decoration-none text-dark">
+                                        <i class="fas fa-dollar-sign me-1"></i>Market Cap (B)
+                                        {% if sort_info.current_sort == 'market_cap' %}
+                                            <i class="fas fa-sort-{{ 'up' if sort_info.current_order == 'asc' else 'down' }} ms-1"></i>
+                                        {% else %}
+                                            <i class="fas fa-sort ms-1 text-muted"></i>
+                                        {% endif %}
+                                    </a>
+                                </th>
+                                <th scope="col" style="width: 10%;" class="text-center">
+                                    <a href="{{ url_for('index', sort='criteria', order=sort_info.opposite_order if sort_info.current_sort == 'criteria' else 'desc', per_page=pagination.per_page) }}" class="text-decoration-none text-dark">
+                                        <i class="fas fa-trophy me-1"></i>Score
+                                        {% if sort_info.current_sort == 'criteria' %}
+                                            <i class="fas fa-sort-{{ 'up' if sort_info.current_order == 'asc' else 'down' }} ms-1"></i>
+                                        {% else %}
+                                            <i class="fas fa-sort ms-1 text-muted"></i>
+                                        {% endif %}
+                                    </a>
+                                </th>
+                                <th scope="col" style="width: 20%;" class="text-center">
+                                    <i class="fas fa-check-circle me-1"></i>Criteria Status
+                                </th>
+                                <th scope="col" style="width: 10%;" class="text-center">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for stock in stocks %}
+                            <tr class="{% if stock.fulfilled_criteria >= 4 %}table-success{% elif stock.fulfilled_criteria >= 3 %}table-warning{% elif stock.fulfilled_criteria <= 1 %}table-danger{% endif %}">
+                                <td>
+                                    <strong class="text-primary">{{ stock.symbol }}</strong>
+                                </td>
+                                <td>
+                                    <div class="text-truncate" style="max-width: 250px;" title="{{ stock.name }}">
+                                        {{ stock.name }}
+                                    </div>
+                                </td>
+                                <td>
+                                    <span class="badge bg-light text-dark">{{ stock.industry }}</span>
+                                </td>
+                                <td class="text-end">
+                                    <strong>${{ "%.1f"|format(stock.market_cap) }}</strong>
+                                </td>
+                                <td class="text-center">
+                                    <span class="badge rounded-pill {% if stock.fulfilled_criteria >= 4 %}bg-success{% elif stock.fulfilled_criteria >= 3 %}bg-warning text-dark{% elif stock.fulfilled_criteria >= 2 %}bg-info{% else %}bg-danger{% endif %}">
+                                        {{ stock.fulfilled_criteria }}/5
+                                    </span>
+                                </td>
+                                <td class="text-center">
+                                    <div class="d-flex justify-content-center gap-1">
+                                        <span class="criteria-check {% if stock.criteria_details.dividend %}criteria-fulfilled{% else %}criteria-not-fulfilled{% endif %}" title="Dividend"><i class="fas fa-coins"></i></span>
+                                        <span class="criteria-check {% if stock.criteria_details.pe %}criteria-fulfilled{% else %}criteria-not-fulfilled{% endif %}" title="P/E Ratio"><i class="fas fa-chart-line"></i></span>
+                                        <span class="criteria-check {% if stock.criteria_details.roe %}criteria-fulfilled{% else %}criteria-not-fulfilled{% endif %}" title="ROE"><i class="fas fa-percentage"></i></span>
+                                        <span class="criteria-check {% if stock.criteria_details.leverage %}criteria-fulfilled{% else %}criteria-not-fulfilled{% endif %}" title="Leverage"><i class="fas fa-balance-scale"></i></span>
+                                        <span class="criteria-check {% if stock.criteria_details.volume %}criteria-fulfilled{% else %}criteria-not-fulfilled{% endif %}" title="Volume"><i class="fas fa-chart-bar"></i></span>
+                                    </div>
+                                </td>
+                                <td class="text-center">
+                                    <a href="{{ url_for('stock_detail', symbol=stock.symbol) }}" class="btn btn-outline-primary btn-sm">
+                                        <i class="fas fa-eye"></i> View
+                                    </a>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Pagination -->
+{% if pagination.total_pages > 1 %}
+<div class="row mt-4">
+    <div class="col-12">
+        <nav aria-label="Stock pagination">
+            <ul class="pagination justify-content-center">
+                {% if pagination.has_prev %}
+                <li class="page-item">
+                    <a class="page-link" href="{{ url_for('index', page=1, sort=sort_info.current_sort, order=sort_info.current_order, per_page=pagination.per_page) }}">
+                        <i class="fas fa-angle-double-left"></i>
+                    </a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="{{ url_for('index', page=pagination.prev_page, sort=sort_info.current_sort, order=sort_info.current_order, per_page=pagination.per_page) }}">
+                        <i class="fas fa-angle-left"></i>
+                    </a>
+                </li>
+                {% endif %}
+
+                {% set start_page = [pagination.current_page - 2, 1]|max %}
+                {% set end_page = [pagination.current_page + 2, pagination.total_pages]|min %}
+
+                {% if start_page > 1 %}
+                <li class="page-item disabled"><span class="page-link">...</span></li>
+                {% endif %}
+
+                {% for page_num in range(start_page, end_page + 1) %}
+                <li class="page-item {% if page_num == pagination.current_page %}active{% endif %}">
+                    <a class="page-link" href="{{ url_for('index', page=page_num, sort=sort_info.current_sort, order=sort_info.current_order, per_page=pagination.per_page) }}">{{ page_num }}</a>
+                </li>
+                {% endfor %}
+
+                {% if end_page < pagination.total_pages %}
+                <li class="page-item disabled"><span class="page-link">...</span></li>
+                {% endif %}
+
+                {% if pagination.has_next %}
+                <li class="page-item">
+                    <a class="page-link" href="{{ url_for('index', page=pagination.next_page, sort=sort_info.current_sort, order=sort_info.current_order, per_page=pagination.per_page) }}">
+                        <i class="fas fa-angle-right"></i>
+                    </a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="{{ url_for('index', page=pagination.total_pages, sort=sort_info.current_sort, order=sort_info.current_order, per_page=pagination.per_page) }}">
+                        <i class="fas fa-angle-double-right"></i>
+                    </a>
+                </li>
+                {% endif %}
+            </ul>
+        </nav>
+
+        <div class="text-center text-muted">
+            <small>
+                Page {{ pagination.current_page }} of {{ pagination.total_pages }}
+                ({{ pagination.total_stocks }} total stocks)
+            </small>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% endblock %}
+
+
+{% block scripts %}
+<script>
+    function changePerPage(value) {
+        // Create a URLSearchParams object from the current window location
+        const urlParams = new URLSearchParams(window.location.search);
+        // Set the 'per_page' parameter to the new value
+        urlParams.set('per_page', value);
+        // Reset to page 1 whenever the number of items per page is changed
+        urlParams.set('page', '1'); 
+        // Redirect to the new URL
+        window.location.href = '{{ url_for("index") }}?' + urlParams.toString();
+    }
+</script>
+{% endblock %}

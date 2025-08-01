@@ -1,0 +1,24 @@
+<!-- templates/404.html -->
+{% extends "base.html" %}
+
+{% block title %}Stock Not Found{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-6 text-center">
+        <div class="card border-0 shadow-sm">
+            <div class="card-body py-5">
+                <i class="fas fa-search text-muted mb-4" style="font-size: 4rem;"></i>
+                <h2 class="card-title text-danger mb-3">Stock Not Found</h2>
+                <p class="card-text text-muted mb-4">
+                    The stock you're looking for doesn't exist in our database.
+                </p>
+                <a href="{{ url_for('index') }}" class="btn btn-primary">
+                    <i class="fas fa-arrow-left me-2"></i>
+                    Back to Dashboard
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

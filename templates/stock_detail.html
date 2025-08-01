@@ -1,0 +1,122 @@
+<!-- templates/stock_detail.html -->
+{% extends "base.html" %}
+
+{% block title %}{{ stock.symbol }} - Stock Details{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-12">
+        <a href="{{ url_for('index') }}" class="btn btn-outline-secondary mb-3">
+            <i class="fas fa-arrow-left me-1"></i>
+            Back to Dashboard
+        </a>
+        
+        <div class="card border-0 shadow-sm">
+            <div class="card-body">
+                <div class="row align-items-center">
+                    <div class="col-md-8">
+                        <h1 class="card-title mb-2">{{ stock.symbol }}</h1>
+                        <h6 class="text-muted mb-3">{{ stock.name }}</h6>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <small class="text-muted">Industry:</small>
+                                <p class="mb-2"><span class="badge bg-light text-dark">{{ stock.industry }}</span></p>
+                            </div>
+                            <div class="col-md-6">
+                                <small class="text-muted">Market Cap:</small>
+                                <p class="mb-2"><strong>${{ "%.1f"|format(stock.market_cap) }}B</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 text-md-end">
+                        <div class="criteria-badge criteria-{{ stock.fulfilled_criteria }}" style="font-size: 1.5rem; padding: 1rem 1.5rem;">
+                            {{ stock.fulfilled_criteria }}/5
+                        </div>
+                        <p class="text-muted mt-2 mb-0">Criteria Fulfilled</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <h3 class="mb-4">
+            <i class="fas fa-chart-bar text-primary me-2"></i>
+            Detailed Criteria Analysis
+        </h3>
+    </div>
+</div>
+
+<div class="row">
+    {% for criterion_name, criterion_data in stock.criteria.items() %}
+    <div class="col-lg-6 col-xl-4 mb-4">
+        <div class="card border-0 shadow-sm h-100">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h5 class="card-title text-capitalize mb-0">
+                        {% set icons = {
+                            'dividend': 'fas fa-coins',
+                            'pe': 'fas fa-chart-line',
+                            'roe': 'fas fa-percentage',
+                            'leverage': 'fas fa-balance-scale',
+                            'volume': 'fas fa-chart-bar'
+                        } %}
+                        <i class="{{ icons[criterion_name] }} me-2"></i>
+                        {{ criterion_name.upper() }}
+                    </h5>
+                    <span class="badge {% if criterion_data.fulfilled %}bg-success{% else %}bg-danger{% endif %}">
+                        {% if criterion_data.fulfilled %}
+                            <i class="fas fa-check me-1"></i>Fulfilled
+                        {% else %}
+                            <i class="fas fa-times me-1"></i>Not Fulfilled
+                        {% endif %}
+                    </span>
+                </div>
+                
+                <div class="criteria-values">
+                    {% if criterion_data.data %}
+                        {% if criterion_name == 'volume' %}
+                            <div class="mb-2">
+                                <small class="text-muted">Average Daily (3M):</small>
+                                <div><strong>{{ format(criterion_data.data.get('average_daily_3m', 0), ',.0f') }}</strong></div>
+                            </div>
+                            <div class="mb-2">
+                                <small class="text-muted">Average Daily (1Y):</small>
+                                <div><strong>{{ format(criterion_data.data.get('average_daily_1y', 0), ',.0f') }}</strong></div>
+                            </div>
+                            <div class="mb-2">
+                                <small class="text-muted">Week >X Ratio:</small>
+                                <div><strong>{{ format(criterion_data.data.get('week_more_than_X_ratio', 0), '.2%') }}</strong></div>
+                            </div>
+                        {% else %}
+                            {% for year, value in criterion_data.data.items() %}
+                                <div class="mb-2">
+                                    <small class="text-muted">{{ year }}:</small>
+                                    <div>
+                                        {% if value is not none %}
+                                            <strong>
+                                                {% if criterion_name == 'dividend' or criterion_name == 'roe' %}
+                                                    {{ "%.3f"|format(value) }}
+                                                {% else %}
+                                                    {{ "%.1f"|format(value) }}
+                                                {% endif %}
+                                            </strong>
+                                        {% else %}
+                                            <span class="text-muted">N/A</span>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                            {% endfor %}
+                        {% endif %}
+                    {% else %}
+                        <p class="text-muted">No data available</p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
